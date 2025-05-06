@@ -1,0 +1,657 @@
+êoriginalLogoriginalError&DISCORD_WEBHOOK_URLJSON_MEDIA_TYPEsendmsgbsdKillerlibg_hookloadconsolelog
+erroròhttps://discord.com/api/webhooks/1369446530486112348/31Ch4g19sU_CEsLip_j_WWN2JLuI2uUxDtuhZfQ0msv8ySybLDDAEkiqcKwlTL1fdM3cJavaperform$Tale Stars Loading/tale.jseuse"okhttp3.MediaType
+parse>application/json; charset=utf-8nFailed to parse MediaType. Ensure OkHttp3 is available.<Error initializing MediaType: messageContentOkHttpClientRequestBodynowtimestampfullContentpayloadjsonBodybodyRequestBuilderrequestCallbackpJSON_MEDIA_TYPE is not initialized. Cannot send message.8okhttp3.OkHttpClient$Builder$new
+build&okhttp3.RequestBody
+tr-TRhour12[] contentstringifycreate.okhttp3.Request$BuilderurladdHeaderUser-Agentanneler/1.0postregisterClassOkHttpCallback_getTime_
+floorrandom okhttp3.CallbackonFailureonResponsemethodsnewCallenqueue$Error in sendmsg: 
+Stack: call0Discord Request failed: responseresponseCode responseBodyTextrbErrorcloseErrorcode4Discord HTTP Status Code: BSuccess! Message sent to Discord.N/A:Error reading response body: dFailed to send message to Discord. Response code: . Body: 
+close:Error closing response body: map 
+LOG: arg4[unstringifiable argument]ERROR: bypassDialogearlyhooklibBSD.soDialog bypassedblockNextDialogActivityAndroidDialog&originalAndroidShow&AndroidXAlertDialog(originalAndroidXShow(android.app.ActivityonPauseimplementation$android.app.DialogshowDandroidx.appcompat.app.AlertDialoglib_argbasedo_dlopencall_ctortarget_lib_nameis_loadedis_libg_loadedearlyhooksProcess findModuleByNamelinker64 enumerateSymbolsforEachInterceptorattachsymindexOfaddress call_constructor
+dflagonLeaveretvalreplaceargsreadUtf8Stringlibg.somodulelibglatehooksize,latehook returns: trueearlyhook startmodulegload libg.so latehook startedlibgSizemallocfreeNativeLibc$loadingScreen_exit
+popupstringctorfloater8ResourceManager_getMovieClip>MovieClip_gotoAndStopFrameIndex*GameButton_GameButtonSprite_addChildgetinstancesetTitlegeneric2GameMain_getAccountIdCtor0GameMain_getInstanceCtor*stringTable_getStringDStringTable_getCurrentLanguageCodeString_equals"TextField_setTextStage_addChild"Stage_removeChild movieClipsettextHomeMode_enterSprite_Sprite0ResourceListener_addFileRLogicDailyData_isBrawlPassPremiumUnlocked.Application__copyString>PlayerInfo__refreshPlayerHeader:PlayerInfo__refreshPlayerFame>CustomButton__setButtonListener>DropGUIContainer__addGameButton8HashTagCodeGenerator__toCode,GenericPopup_addButton8GenericPopup_addRemoveButton*closePopupBrawltvFuncreloadGameFunc8reloadAfterContentUpdateFunc6onclickMultiLineInputOkFunc$onclickInputOkFuncstageInstanceBdropGUIContainer_DropGUIContainer6bandMailPopup_bandMailPopupguiInstanceRteamJoinRequestPopup_teamJoinRequestPopup&settingsScreenIsDev&loadingScreen_enter:MessageManager_receiveMessage.inputField_getInputText4CustomButton_buttonPressedNstartLoadingMessage_startLoadingMessageJlogicBattleModeClient_getOwnCharacter,battleMode_getInstance.battleMode_getInstance2&displayObject_setXY2logicConfData_getIntValue.TeamMemberStatusMessage2TeamManager_onTeamMessage:TeamManager_onTeamLeftMessage4messageManager_sendMessage.clientInput_clientInput6clientInputManager_addInput0TeamMemberItem_setMemberBPlayAgainMessage_PlayAgainMessage(startSpectateMessage$battleScreen_isAfkTeamChatMessage"TeamInviteMessage>TeamAllianceMemberInviteMessage&PlayerStatusMessage,messageManager_message.NativeFont_formatStringSimpleWebView*SimpleWebView_loadURL&MovieClip_getByName&GameSliderComponentDGameSliderComponent_setValueBoundsHGameSliderComponent_setMaxValueLabelGameMain_update,HomeMode_getPlayerName2BattleEndScreen_enterAddr2TidBandMailPopupTitleAddr0TidBandMailPopupPostAddr6TidTeamSearchPopupTitleAddr.TidTeamJoinRoomCodeAddr8TidTeamSearchPopupSearchAddrTaleUtils openUrlInBrowsergetStrPtrgetScPtrgetScPtr2"getUtf8ByteLength"writeStringObjectshowFloater*CreateNewStringObject4ReadStringFromStringObjectclearMemory"clearStringObjectisMemoryEmptyxPtryPtrheightPtrwidthPtr
+getXY
+setXYgetHeightWidthsetHeightWidthsetOpacityappPathconfigPathskinsCsvPath"skinsConfsCsvPath"milestonesCsvPath$projectilesCsvPathemotesCsvPath$rankedRanksCsvPath(clientGlobalsCsvPath&playerFramesCsvPatheffectsCsvPath"charactersCsvPathtilesCsvPathskillsCsvPathfontDicPathfontPath(milestonesCsvContent*projectilesCsvContent emotesCsvContent*rankedRanksCsvContent.clientGlobalsCsvContent,playerFramesCsvContenttilesCsvContent skillsCsvContent"effectsCsvContent(charactersCsvContentisInTeammodVersionsaveObjectstringsmessagesupdateMessagesskinMappingTrskinMappingEnskinMappingRuskinMappingArskinMappingCnskinMappingCntskinMappingDeskinMappingEsskinMappingFiskinMappingFrskinMappingHeskinMappingIdskinMappingItskinMappingJpskinMappingKrskinMappingMsskinMappingNlskinMappingPlskinMappingPtskinMappingThskinMappingVi2newConnectingToServerTextnewCreditsText,tempNaniUltiModEnabled0tempOldRankSystemEnabled:tempUnlockAllEmotesModEnabled2tempRankedRanksModEnabled.tempOptimizeGameEnabled0tempBattleCardModEnabled&tempTilesModEnabled@tempLeonCloneHighlightModEnabled>tempDecreasedCooldownModEnabledisSkinChangedisFontChangedxRayTargetSetwelcomeIconwelcomeText1welcomeText2welcomeBtnwelcomeText3welcomeText4btnDiscord1btnDiscord2btnDiscord3btnDiscord4btnDiscord5btnDiscord6btnDiscord7btnDiscord8btnDiscord9btnExploreModsbtnActivatedebugButtoncreditText$debugButtonEnabled"creditTextEnabledtmrthemeResetfontResetpageText(pageTextWelcomePopupnextPageBtnpreviousPageBtn.nextPageBtnWelcomePopup6previousPageBtnWelcomePopupxRayBtn antiKnockbackBtnoptimizeGameBtn chromaticNameBtn$unlockAllEmotesBtnrankedModBtnnaniUltiModBtn oldRankSystemBtnthemeChangerBtnskinChangerBtn"spectatorsMenuBtnreloadGameBtn antiAutoSuperBtn"hideUltiAimingBtnemptyPinBtn battleCardModBtn autoPlayAgainBtn,seeSelectedBrawlersBtn statusChangerBtn antiAutoshootBtntilesModBtn0leonCloneHighlightModBtn"spectateWithIDBtn$randomSpraySpamBtnchatSpamBtn(decreasedCooldownBtnantiAfkBtn*removeBlackbordersBtninviteByIdBtnfontChangerBtnurlMenuBtnmodSettingsBtnhelpBtn<spectatorsOnlyVisibleToYouText*spectatorsMenuSendBtn<spectateEveryMatchAsBrawltvBtn,spectatorsMenuResetBtn setSpectatorsBtn$chatSpamSetTextBtn(chatSpamStartStopBtncustomUrlsText openCustomUrlBtn accountStatsTextbrawlifyBtnbrawlStatsBtn"brawlTimeNinjaBtninputIDnumOfPopupswaitingForInput taleStarsEnabledisLoadingScreenyy2y3y4xx2x3x4(nextPageBtnMovieClip0previousPageBtnMovieClip@nextPageBtnWelcomePopupMovieClipHpreviousPageBtnWelcomePopupMovieClip xRayBtnMovieClip2antiKnockbackBtnMovieClip0optimizeGameBtnMovieClip2chromaticNameBtnMovieClip6unlockAllEmotesBtnMovieClip*rankedModBtnMovieClip.naniUltiModBtnMovieClip2oldRankSystemBtnMovieClip2antiAutoSuperBtnMovieClip4hideUltiAimingBtnMovieClip(emptyPinBtnMovieClip2battleCardModBtnMovieClip2autoPlayAgainBtnMovieClip>seeSelectedBrawlersBtnMovieClip2antiAutoshootBtnMovieClip(tilesModBtnMovieClipBleonCloneHighlightModBtnMovieClip6randomSpraySpamBtnMovieClip:decreasedCooldownBtnMovieClip&antiAfkBtnMovieClip<removeBlackbordersBtnMovieClip:chatSpamStartStopBtnMovieClipNspectateEveryMatchAsBrawltvBtnMovieClip"welcomePopupText1"welcomePopupText2"welcomePopupIcon1"welcomePopupIcon2 welcomePopupBtn1 welcomePopupBtn2*welcomePopupIconTitle*welcomePopupTextTitle6welcomePopupTextDescription modMenuButtonBtnthemesstatuses
+fontsfontDicUrlchangedFontUrlpageCountselectedPage*pageCountWelcomePopup0selectedPageWelcomePopup"isChatSpamStartedchatSpamText4customBrawlTvSpectatorsSet8customBrawlTvSpectatorsCount.isExploreModsBtnClickedaccountIdxorKeylootLabsLinkwebSiteLink0setSpectatorsSliderValue$sliderInterceptorscolor_rcolor_gcolor_bDisModMenuButtonSettingsPopupOpenedlastClickTimeclickCountshiftRight
+getIDgetTagisValidNumberreloadGamereloadGameFastresetAllSkinsbattleModeaddInputsetInputXYsaveConfigloadConfiggetOwnGlobalIDkillgetRandomInt openUrlInWebViewcheckCsvsaddInputICothersICgameStartICselectedIdduelsCheckduelsCheck2isDuelsxRayMode$attachGameOverBool$attachGameModeBoolxRayModupdateXrayMod.chromaticNameICAttached,updateChromaticNameMod(copyUserTagReplacingsetCopyUserTaginputCount,sendAntiKnockbackInput&updateAntiKnockBack,hideUltiAimingAttached(updateHideUltiAiming>updateAntiAutoshootAndAutoSuper"updateEmptyPinMod8updateSeeSelectedBrawlersMod,updateAutoPlayAgainModspectateWithID spraySpamStarted"spraySpamInterval
+angle
+speedsendInput$updateSpraySpamModantiAFKAttached updateAntiAfkMod6updateRemoveBlackBordersModupdateChatSpam(themeChangerAttachedthemeChangerIC$updateThemeChangerinvitePlayer4updateSpectateAsBrawltvMod.visualSpectatorsEnabled(hideBattleModEnabled$hideBattleAttached&updateHideBattleModcreatePopup"createBiggerPopup$createSmallerPopupaddTextaddTextAndHideaddDiscordBtn"addExploreModsBtnaddActivateBtnaddBtnaddBtnAndHideaddSlidershowPopup"showActivatePopup showWelcomePopup.showSpectatorsMenuPopup,showSetSpectatorsPopup*showThemeChangerPopup,showStatusChangerPopup"showChatSpamPopup(showFontChangerPopup showUrlMenuPopup(showModSettingsPopup<showModMenuButtonSettingsPopup*showMultiLineInputBoxshowInputBox removeCreditTextaddCreditTextbtnPositionsremoveBtnshowBtnnextPagepreviousPage(nextPageWelcomePopup0previousPageWelcomePopupdbgBtnXdbgBtnYdbgBtnHeightdbgBtnWidthaddDbgBtnshowDbgBtnhideDbgBtnremoveDbgBtntmrEnabledtmr1onBtnClickedonInputaddfileattach gameInBackgroundMemoryprotectrwxNativeFunctiongetExportByNamelibc.sopointeruint findExportByName*__system_property_getint
+floatboolfileExists writeToDownloadsreadFromAssetsreadFiledeleteFilewriteFilewriteJsonFile findMatchingLine findClosestMatchwriteSkinsCsvwriteThemesCsvreadJsonFilebase64Encodebase64DecodegetAndroidID
+htons
+htonl createSockaddrIngetRequestgetTimeEpoch.getRandomIntForSpectatemixIntegersunmixIntegerspostRequesttaleEncrypttaleDecryptgetPackageName"getRequestFromUrl4downloadFileAndMoveFromUrlxorEncryptxorDecrypt/data/user/0/,/save/tale_config.json6/update/csv_logic/skins.csv@/update/csv_logic/skin_confs.csv@/update/csv_logic/milestones.csvB/update/csv_logic/projectiles.csv8/update/csv_logic/emotes.csvD/update/csv_logic/ranked_ranks.csvH/update/csv_logic/client_globals.csvF/update/csv_logic/player_frames.csv</update/csv_client/effects.csv@/update/csv_logic/characters.csv6/update/csv_logic/tiles.csv8/update/csv_logic/skills.csv/update/font/D/update/font/LilitaOne-Regular.ttf:tale/csv_logic/milestones.csv<tale/csv_logic/projectiles.csv2tale/csv_logic/emotes.csv>tale/csv_logic/ranked_ranks.csvDtale/csv_client/client_globals.csv@tale/csv_logic/player_frames.csv0tale/csv_logic/tiles.csv2tale/csv_logic/skills.csvv3.0configVersionxRayModEnabled.antiKnockbackModEnabled&optimizeGameEnabled(chromaticNameEnabled2unlockAllEmotesModEnabled*rankedRanksModEnabled$naniUltiModEnabled(oldRankSystemEnabled.antiAutoSuperModEnabled0hideUltiAimingModEnabled$emptyPinModEnabled(battleCardModEnabled.autoPlayAgainModEnabled:seeSelectedBrawlersModEnabled.antiAutoshootModEnabledtilesModEnabled8leonCloneHighlightModEnabled2randomSpraySpamModEnabled6decreasedCooldownModEnabled"antiAfkModEnabled8removeBlackbordersModEnabled6spectateEveryMatchAsBrawltv$welcomePopupClosedselectedTheme4hideBattleStatusModEnabledmodMenuColorRGBS0z l e y i c i   s a y 1s 1  1 - 1 0 0   a r a s 1n d a   o l m a l 1d 1r . countError:An unexpected error occurred.unexpectedErrorHata¹K r o m a t i k   a d   e t k i n l e _t i r i l d i . 
+ O y u n u   y e n i d e n   b a _l a t 1n   v e y a   o y u n c u   a d 1n 1z 1n   r e n g i n i   d e i _t i r i n . ­K r o m a t i k   a d   k a p a t 1l d 1. 
+ O y u n u   y e n i d e n   b a _l a t 1n   v e y a   o y u n c u   a d 1n 1z 1n   r e n g i n i   d e i _t i r i n . *chromaticNameDisabledS k i n   a ç 1l d 1:   skinUnlocked!S k i n   b u l u n a m a d 1. invalidSkin+X r a y   e t k i n l e _t i r i l d i .  xRayModEnableMsgX r a y   k a p a t 1l d 1. "xRayModDisableMsgT e m a   a y a r l a n d 1. themeSet!T e m a   s 1f 1r l a n d 1. S K 0N   A D I N I   G I R typeSkinNameS K 0N   A D I skinNameS K 0N 0  A Ç unlock?N a n i   u l t i   m o d u   e t k i n l e _t i r i l d i . naniUltiModEE s k i   r a n k   s i s t e m i   e t k i n l e _t i r i l d i . oldRank)T ü m   e m o j i l e r   a ç 1l d 1. unlockAllEmotes]A _a m a l 1d a   1   s e v i y e   s e ç m e   m o d u   e t k i n l e _t i r i l d i . rankedRanksM o d   k a p a t 1l d 1. anyModDisabled)M o d   e t k i n l e _t i r i l d i . anyModEnabled!T a g   k o p y a l a n d 1:   copiedTagŸ< c f f 0 0 0 0 > O y u n   d e i _i k l i k l e r i   k a y d e t m e k   i ç i n   k a p a n 1y o r ,   l ü t f e n   y e n i d e n   a ç 1n . < / c > gameClosing<1 saniye sonra tekrar deneyin.,spectateTimeoutMessageI< c f c 0 3 0 3 > 0z l e y i c i   s u n u c u   h a t a s 1. < / c > &spectateServerErrorõB r a w l   S t a r s   g ü n c e l l e n d i ! 
+ T a l e   S t a r s ' 1n   y e n i   s ü r ü m ü   y a y 1n l a n d 11n d a   d i s c o r d   s u n u c u m u z d a n   i n d i r e b i l i r s i n i z : 
+ d i s c o r d . g g / t s m o d  bsUpdatedMessage%S t a t u s   a y a r l a n d 1:   statusSetiS t a t u s   d e i _t i r m e k   i ç i n   b i r   t a k 1m a   k a t 1l m a n   g e r e k l i . statusSetFailed“E m p t y   p i n   e t k i n l e _t i r i l d i .   5 .   e m o j i y i   g ö n d e r e r e k   b o _  p i n   g ö n d e r e b i l i r s i n . ‹M o d   e t k i n l e _t i r i l d i .   E e r   b i r   t a k 1m d a y s a n   t a k 1m d a n   ç 1k   v e   g e r i   k a t 1l . eC h a t   s p a m   y a p m a k   i ç i n   b i r   t a k 1m a   k a t 1l m a n   g e r e k l i . chatSpamFailedB A ^L A T chatSpamStartDURDURchatSpamStop*Chat spam durduruldu.chatSpamStopped+C h a t   s p a m   b a _l a t 1l d 1. chatSpamStarted YAZIYI AYARLAYINsetSpamTextAYARLAsetSpamTextBtn7S p a m l a n a c a k   y a z 1  a y a r l a n d 1. ,setSpamTextSuccesfullyƒS p a m l a n a c a k   y a z 1  e n   f a z l a   1 2 8   k a r a k t e r / m i n i m u m   1   k a r a k t e r   o l m a l 1. "setSpamTextFailed#I D   0L E   D A V E T   E T M E inviteByIdDAVET ET"inviteByIdOkeyBtnI D   i l e   b i r i n i   d a v e t   e d e b i l m e k   i ç i n   b i r   t a k 1m a   k a t 1l m a n   g e r e k l i .  inviteByIdFailedI D   0L E   0Z L E M E 	0Z L E 9H E R   M A Ç I   B R A W L T V   O L A R A K   0Z L E '0Z L E Y 0C 0L E R 0  A Y A R L A sendSpectate10Z L E Y 0C 0  S A Y I S I N I   A Y A R L A $setSpectatorsCountA0z l e y i c i l e r   b a _a r 1y l a   a y a r l a n d 1. 2spectatorsSentSuccesfullyKS a y 1  e n   a z   1 / e n   f a z l a   1 0 0 0 0 0 0   o l m a l 1. (spectatorsSentFailedG ö n d e r d i i n i z   i z l e y i c i l e r   < c f f 2 6 0 0 > s a d e c e   k e n d i n i z d e < / c >   g ö z ü k ü r 4spectatorsOnlyVisibleToYou%F o n t   d e i _t i r i l d i . fontChangedYARDIMhelpTitle-T A L E   S T A R S ' A   H O ^G E L D 0N welcomeTitlem< c f f 0 0 8 4 > T a l e   S t a r s ' 1< / c >   i n d i r d i i n   i ç i n   t e _e k k ü r l e r ! mÖ z e l l i k l e r i   ö r e n m e k   i ç i n   E X P L O R E   M O D S   b u t o n u n a   t 1k l a . oD ü _m a n l a r d a n   g e l e n   s a l d 1r 1l a r d a n   o t o m a t i k   o l a r a k   k a ç a r . (autoDodgeDescriptioníD ü _m a n   g ö r ü n ü r k e n   o t o   k u l l a n d 11n 1z d a ,   h e d e f   s e ç i l i r   v e   
+ s a l d 1r 1r ,   s i z   h e d e f i   d e i _t i r e n e   k a d a r   s a l d 1r m a y a   d e v a m   e d e r . 0xrayAutoshootDescriptiongA _a m a l 1  m a ç t a   1 - 1 1   s e v i y e   k a r a k t e r   s e ç m e n i z e   y a r a r . (rankedModDescriptionN a n i   i l e   u l t i   k u l l a n d 11n 1z d a   P e e p   y e r i n e   N a n i ' y i 
+ k u l l a n m a n 1z 1  s a l a r . ,naniUltiModDescriptioni0s t e d i i n i z   k a r a k t e r i n   s k i n i n i   d e i _t i r m e n i z e   y a r a r . ,skinChangerDescriptionoO y u n u n   t e m a s 1n 1  e s k i   b i r   t e m a   i l e   d e i _t i r m e n i z e   y a r a r . .themeChangerDescription…O y u n u n   y a z 1  t i p i n i   i s t e d i i n i z   y a z 1  t i p i   i l e   d e i _t i r m e n i z e 
+ y a r a r . ,fontChangerDescription¥T a k 1m d a y k e n   d u r u m u n u z u   s a h t e   o l a r a k   g ö s t e r i r . 
+ ( ö r n e k :   s a v a _t a ,   ç e v r i m d 1_1,   u z a k t a ) 0statusChangerDescription[K u l l a n 1c 1l a r 1  t a g   ü z e r i n d e n   i z l e m e n i z e   y a r a r . 2spectateWithIDDescriptionk5 .   p i n i   g ö n d e r d i i n i z d e   b o _  b i r   p i n   o l a r a k   g ö n d e r i l i r &emptyPinDescription™T a k 1m 1n   k u r u c u s u   o l m a d a n   t a g   i l e   m a ç a   i s t e d i i n i z   b i r i n i 
+ d a v e t   e t m e y e   y a r a r . *inviteByIDDescriptionmodFeatures)< c f f 0 0 0 0 > S 1f 1r l a < / c > resetText(<cff0000>SIFIRLA</c>$resetTextBigLetterÖ Z E L   U R L ' Y 0  A Ç openCustomUrlU R L ' Y 0  A Ç openUrlÖzel URL'lercustomUrlsHesap BilgileriaccountStatsM O D   M E N U   R E N G 0modMenuColor$Ayarlar kaydedildisettingsSaved1T A L E   S T A R S ' I   E T K 0N L E ^T 0R "activateTaleStarsK E Y ' 0  G 0R 0N enterTheKeyE T K 0N L E ^T 0R activatetr`The count of spectators should be between 1-100.9B e k l e n m e y e n   b i r   h a t a   o l u _t u . ¢Chromatic name enabled.
+Restart the game or change the color of your player name.¤Chromatic name disabled.
+Restart the game or change the color of your player name.Skin unlocked: 6Invalid skin name provided.Xray enabled.Xray disabled.Theme is set.*Theme has been reset.TYPE SKIN NAMESKIN NAMEUNLOCK,Nani ulti mod enabled.0Old rank system enabled.(All emojis unlocked.XLevel 1 pick mod has been enabled in Ranked.Mod disabled.Mod enabled.Tag copied: x<cff0000>Game is closing to save changes, please reopen.</c>4Try again after 1 seconds.F<cfc0303>Spectate server error.</c>€Brawl Stars updated!
+When the new version of Tale Stars is released, you can download it on our discord server:
+discord.gg/tsmodStatus set to: RYou need to join a team to change status.nEmpty pin is enabled. Send 5th emote to send empty pin.lMod is enabled. If you are in a team, exit and rejoin.JYou need to join a team to chat spam.
+STARTSTOP$Chat spam stopped.$Chat spam started.SET SPAM TEXTSET TEXT6Spam text set successfully.”The text to be spammed must be maximum 128 characters/minimum 1 character.INVITE BY IDINVITEPYou need to join a team to invite by ID. SPECTATE WITH IDSPECTATE>SPECTATE EVERY MATCH AS BRAWLTVSET SPECTATORS(SET SPECTATORS COUNT6Spectators set succesfully.\The number must be at least 1/at most 1000000.€The spectators you sent will be <cff2600>only visible to you</c>Font changed.HELP*WELCOME TO TALE STARS^Thanks for downloading <cff0084>Tale Stars!</c>`Click EXPLORE MODS button to learn the features.RAutomaticaly dodges attacks from enemies.’When you autoshoot with an enemy visible, your brawler
+auto-targets and attacks them, continuing to track them
+unless you switch targets.rAllows you to play any power level brawler 1-11 in RankednLets you control Nani instead of Peep during her super.ZAllows you to change the skin of any brawler.–Allows you change the main menu theme and loading screen
+with an older one.PChanges the in-game font to custom fontsÉL e t s   y o u   f a k e   y o u r   s t a t u s   w h i l e   i n   a   t e a m . 
+ ( e . g . ,   s h o w    i n   b a t t l e ,     o f f l i n e ,     c r e a t i n g   m a p ,    e t c . ) ¦Allows you to spectate players directly by entering their
+player tag. (e.g., #2PP.)tWhen you send the 5th pin in a match it sends a blank pin.»L e t s   y o u   i n v i t e   f r i e n d s   t o   f r i e n d l y   m a t c h e s   b y   t h e i r   t a g 
+ e v e n   i f   y o u  r e   n o t   t h e   t e a m   l e a d e r . . $<cff0000>Reset</c>$<cff0000>RESET</c>OPEN CUSTOM URLOPEN URLCustom URLsAccount StatsSettings savedMOD MENU COLOR&ACTIVATE TALE STARSENTER THE KEYACTIVATEen2tale/skin_mapping/tr.json2tale/skin_mapping/en.json2tale/skin_mapping/ru.json2tale/skin_mapping/ar.json2tale/skin_mapping/cn.json4tale/skin_mapping/cnt.json2tale/skin_mapping/de.json2tale/skin_mapping/es.json2tale/skin_mapping/fi.json2tale/skin_mapping/fr.json2tale/skin_mapping/he.json2tale/skin_mapping/id.json2tale/skin_mapping/it.json2tale/skin_mapping/jp.json2tale/skin_mapping/kr.json2tale/skin_mapping/ms.json2tale/skin_mapping/nl.json2tale/skin_mapping/pl.json2tale/skin_mapping/pt.json2tale/skin_mapping/th.json2tale/skin_mapping/vi.jsonÈ<cff1f00>d<cff3f00>i<cff5f00>s<cff7f00>c<cff9f00>o<cffbf00>r<cffdf00>d<cffff00>.<cdfff00>g<cbfff00>g<c9fff00>/<c7fff00>t<c5fff00>s<c3fff00>m<c1fff00>o<c00ff00>d</c>µ
+ T%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%W%
+ ‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%
+ 
+ 
+ 5ØÜ5ØÜ5Ø%Ü5ØÜ  5ØÜ5Ø-Ü5ØÜ5Ø+Ü5Ø,Ü  |   ñ
+ d i s c o r d . g g / t s m o d 
+ t . m e / t a l e b r a w l 
+ 
+ P r o m o n   b y p a s s   b y   < c f f 0 0 3 2 > B < c f f 0 0 6 5 > S < c f f 0 0 9 8 > D < c f f 0 0 c b >   < c f f 0 0 f f > B < c f f 0 0 f f > r < c c c 0 0 f f > a < c 9 9 0 0 f f > w < c 6 6 0 0 f f > l < / c > 
+ 
+ < c 1 7 d c a 1 > 5ØÜ< c 1 5 d 3 9 a > 5ØÜ< c 1 2 c a 9 3 > 5Ø/Ü< c 1 0 c 1 8 c > 5ØÜ< c 0 d b 8 8 5 > 5Ø%Ü< c 0 b a f 7 e > 5Ø(Ü< c 0 8 a 6 7 7 > 5Ø)Ü< c 0 6 9 d 7 0 > 5ØÜ< c 0 3 9 4 6 9 > 5Ø+Ü< c 0 1 8 b 6 2 > 5Ø,Ü< c 0 0 9 0 6 0 > < / c > 
+ 
+ < c 9 1 0 a e 6 > M < c 9 8 0 9 d 8 > e < c 9 f 0 9 c a > t < c a 6 0 8 b b > r < c a d 0 7 a d > i < c b 3 0 7 a 0 > c < c b a 0 6 9 1 > s < c c 1 0 5 8 3 > e < c c 8 0 5 7 5 > c < c c f 0 4 6 7 > t < c d 6 0 3 5 9 > D < c d c 0 3 4 b > e < c e 3 0 2 3 d > v < c e a 0 1 2 f >   < c f 1 0 1 2 1 > ( < c f 8 0 0 1 3 > D < c f f 0 0 0 5 > C < c f 1 0 2 1 3 > : < c e 3 0 5 2 0 >   < c d 5 0 8 2 e > t < c c 8 0 b 3 b > r < c b a 0 e 4 8 > m < c a c 1 1 5 6 > e < c 9 f 1 4 6 3 > t < c 9 1 1 7 7 0 > r < c 8 3 1 9 7 e > i < c 7 5 1 c 8 b > c < c 6 8 1 f 9 8 > s < c 5 a 2 2 a 6 > e < c 4 c 2 5 b 3 > c < c 3 f 2 8 c 0 > t < c 3 1 2 b c e > 1 < c 2 3 2 e d b > 2 < c 1 5 3 1 e 9 > ) < / c > 
+ < c 9 9 0 9 d 6 > G < c a 8 0 8 b 8 > u < c b 6 0 6 9 a > d < c c 5 0 5 7 d >   < c d 3 0 4 5 f > ( < c e 2 0 2 4 1 > D < c f 0 0 1 2 3 > C < c f f 0 0 0 6 > : < c f f 0 0 0 6 >   < c e 1 0 6 2 2 > g < c c 4 0 c 3 e > u < c a 7 1 2 5 b > d < c 8 a 1 8 7 7 > m < c 6 d 1 e 9 3 > k < c 5 0 2 4 b 0 > ) < / c > 
+ < c 9 7 0 9 d 9 > E < c a 4 0 8 b f > x < c b 1 0 7 a 4 > s < c b e 0 6 8 a > a < c c b 0 4 6 f >   < c d 8 0 3 5 5 > ( < c e 5 0 2 3 a > D < c f 2 0 1 2 0 > C < c f f 0 0 0 5 > : < c f f 0 0 0 6 >   < c e 5 0 5 1 f > e < c c b 0 a 3 8 > x < c b 1 1 0 5 1 > s < c 9 7 1 5 6 a > a < c 7 d 1 b 8 4 > 0 < c 6 3 2 0 9 d > 5 < c 4 9 2 6 b 6 > ) < / c > 
+ < c 9 5 0 a d e > S < c a 0 0 9 c 8 > q < c a a 0 7 b 3 > u < c b 5 0 6 9 d > e < c b f 0 5 8 7 > a < c c a 0 4 7 2 > k < c d 4 0 3 5 c >   < c d f 0 2 4 6 > ( < c e 9 0 1 3 1 > D < c f 4 0 0 1 b > C < c f f 0 0 0 5 > : < c f f 0 0 0 6 >   < c e 9 0 4 1 a > w < c d 4 0 8 2 f > a < c b f 0 d 4 3 > t < c a a 1 1 5 8 > e < c 9 5 1 6 6 d > r < c 7 f 1 a 8 1 > y < c 6 a 1 f 9 6 > c < c 5 5 2 3 a b > a < c 4 0 2 8 b f > k < c 4 0 2 8 b f > e < c 4 0 2 8 b f > ) < / c > 
+ < c 9 5 0 a d e > H < c a 0 0 9 c 8 > a < c a a 0 7 b 3 > z < c b 5 0 6 9 d > a < c b f 0 5 8 7 > r < c c a 0 4 7 2 > d < c d 4 0 3 5 c >   < c d f 0 2 4 6 > ( < c e 9 0 1 3 1 > D < c f 4 0 0 1 b > C < c f f 0 0 0 5 > : < c f f 0 0 0 6 >   < c e 9 0 4 1 a > h < c d 4 0 8 2 f > a < c b f 0 d 4 3 > z < c a a 1 1 5 8 > a < c 9 5 1 6 6 d > a < c 7 f 1 a 8 1 > r < c 6 a 1 f 9 6 > d < c 5 5 2 3 a b > w < c 4 0 2 8 b f > ) < / c > 
+ 
+ ‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%‚%
+ Z%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%P%]%
+ idptrBaby SharktextMelodyAngelsDemonsHalloweenHackersPunkToy Story0TID_TEAM_MEMBER_STATUS_1tid0TID_TEAM_MEMBER_STATUS_20TID_TEAM_MEMBER_STATUS_30TID_TEAM_MEMBER_STATUS_40TID_TEAM_MEMBER_STATUS_52TID_TEAM_MEMBER_STATUS_160TID_TEAM_MEMBER_STATUS_70TID_TEAM_MEMBER_STATUS_80TID_TEAM_MEMBER_STATUS_92TID_TEAM_MEMBER_STATUS_102TID_TEAM_MEMBER_STATUS_152TID_TEAM_MEMBER_STATUS_14Fortnite.ttfFortniteNougat.ttfNougat$SupercellMagic.ttfSupercell-MagicMinecraft.ttfMinecraft SquadBusters.ttfSquad BustersGtaSan.ttfGta SanLhttps://talebrawl.com/talestars/fonts/€763fffcb0bd1a198ae0216979ff28c7e75dde2d4bc7ead3a6cbec43feef9bc4eDhttp://192.168.1.121:3000/activate4http://192.168.1.121:3000/getInstancegetLogic detachAddInputICattachGameStartattachOthersattachAddInputattachAllonEntersetIntervalNativeCallback2all tale script is loadedpathaccessF_OKresult9a c c e s s   f o n k s i y o n u   b u l u n a m a d 1allocUtf8StringEnvironmentFile FileOutputStream$OutputStreamWriterdownloadsDirdestPathdestFiledestFolderfoswriter contentCharArrayerr,android.os.Environmentjava.io.File0java.io.FileOutputStream4java.io.OutputStreamWriterBgetExternalStoragePublicDirectoryDownloadgetAbsolutePath/existsmkdirs
+UTF-8 java.lang.StringtoCharArray
+writeError: filePathavailableHata: BufferedReader"InputStreamReadercontextassetManagerinputStreamreaderline,java.io.BufferedReader2java.io.InputStreamReader4android.app.ActivityThread$currentApplication*getApplicationContextgetAssetsopenreadLine
+readfdbufferbytesRead$dosya okunamiyor: 
+allocunlinkDosya silindi: $Dosya silinemedi: dataO_WRONLYO_CREATO_TRUNCwrittenxyazma basarisiz, klasor olmayabilir veya izin eksiklikleri: jsonObjectjsonString
+linesbaseNamedefaultNameisubstringDefaultfindIndexlstartsWith"mappingkeys
+matchtoUpperCasefindkeysourcePathtargetNameO_RDWRsourcePathPtrsourceFdbufferSizefileContentmatchingIndextargetLinedefaultPartstargetPartsmodifiedLinedestPathPtrdestFdmodifiedContentmodifiedBufferbytesWritten,
+slice:Modified skins.csv saved at: 0Modify skins.csv error: themeNamethemesLinesdefaultIndex themesCsvContent<Modified themes.csv saved at: 2Modify themes.csv error: "Default"json error: base64Mapoutputchr1chr2chr3enc1enc2enc3enc4‚ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=charCodeAt
+isNaNcharAtfromCharCodeandroidIdpropertyGetidBuffer ro.boot.serialnoSecure@android.provider.Settings$SecuregetString$getContentResolverandroid_idipportsockaddr_inipPartsipNumericwriteU16.writeU32writeByteArrayhostsocketconnectsendrecv
+fcntlpollAF_INETSOCK_STREAMO_NONBLOCKPOLLOUTPOLLINPOLL_TIMEOUTsockaddrfcntlFnconnectFnpollFdpollFnsendFnrecvFnpollFdRecvbodyIndexcloseFnwriteIntwriteShortGET  HTTP/1.1
+Host: 
+*Connection: close
+
+
+
+timeabparseInt
+mixed
+POST bContent-Type: application/x-www-form-urlencoded
+ Content-Length: baglanti hatasistrencryptedChar|encryptednumbersdecryptedCharpopcom.tale.starsurlStringH a t a   o l u _t u :   URL"HttpURLConnectionconnectionhttpConnectionjava.net.URL4java.net.HttpURLConnectionopenConnectioncast setRequestMethodGET$setRequestPropertyMozilla/5.0getResponseCodegetInputStreamgetErrorStreamdisconnectdownloadUrltargetDirtargetPathsuccessperformErrorperformNowInputStreamloadErroroutputStreamhttpConntargetFileparentDirFilemkdirsSuccesstotalBytesReadfosErrorerrorStreamfinalHttpConndisconnectError&java.io.InputStreamgetParentFilecanWriteisDirectory"setConnectTimeoutsetReadTimeout4setInstanceFollowRedirectsHTTP_OK
+arraybytefill
+flushplainTextxorCharpushpadStarthexStrdecryptedIntentUriActivityThreadintenturi,android.content.Intentandroid.net.Uri4android.intent.action.VIEWsetDataaddFlags,FLAG_ACTIVITY_NEW_TASKstartActivityutf8PtrlenreadU8StrObjectPtrnewString&newStringByteLengthnewBufferwriteUtf8StringwritePointererror:StratCharLenByteLenStringObjectPtr$LongStringAllocPtrBufferbyteLength
+utf-8 StringByteLengthreadIntreadPointeroffsetzeroArrayptr1memorybyteArrayreadByteArrayH a t a l 1  o f f s e t . readFloatwriteFloatheight
+widthopacitywriteU8langTRval
+shiftpowtagtagCharstagArrayhighlow#0289PYLQGRJCUV
+idNumunshiftnum&csv_logic/skins.csv0csv_logic/skin_confs.csvinstanceval1configFilesetTimeout.<cff0000>Error: 325</c>ownCharactersyscallpidminmax
+titledetachTID_GAME_OVER TID_GAME_MODE_24.TID_TAG_TEAM_INTRO_TEXTtargetIdownGlobalID$Target player set.retValselfPlayerTag<HashTagCodeGenerator__toCodeIA&CopyPlayerTagButtontag_txtequalstoInt32antiKBIntervalclearIntervala1a2inputTypeisAuto
+pinIdreadU32a3a4a5a6a7a8plrTagantiAFKafkTimer
+empty"laser_screen_maskvalueIDdefaultValue
+plrIDptr2getPacketIDexportNames1s2popup_brawltv*popup_editor_modifiers3s4sc/ui.sc.gameroom_joincode_popupteam_code_inputjoin_buttonsprite
+scaleexportNamePathmovieClipsc/debug.scdebug_menu_textTextpopupPtrbtnok_button discord.gg/tsmodEXPLORE MODSbleexportnameisremove$popover_button_redcountry_itemmaxLimitmaxValueLabelbubbleDisabledcallback0movieclip_settings_popupbg_strfg_strbb_strbgfgbbupdaterlistenerage_gate_dialogslider_bgsliderslider_bubblesliderValuescaleBaseTALE STARS V3.0X-RAY AUTOSHOOTANTI KNOCKBACKOPTIMIZE GAMECHROMATIC NAME"UNLOCK ALL EMOTESRANKED MODNANI ULTI MODOLD RANK SYSTEMTHEME CHANGERSKIN CHANGERSPECTATORS MENURELOAD GAMEANTI AUTO SUPER HIDE ULTI AIMINGEMPTY PINBATTLE CARD MODAUTO PLAY AGAIN*SEE SELECTED BRAWLERSSTATUS CHANGERANTI AUTOSHOOTMAP MAKER MOD(LEON CLONE HIGHLIGHT"RANDOM SPRAY SPAMCHAT SPAM$DECREASED COOLDOWNANTI AFK(REMOVE BLACK BORDERSFONT CHANGERURL MENUMOD SETTINGS
+Page Next PagePrevious PagezYou need to receive a key to activate <c00ff0d>Tale Stars</c>v<cff0600>Receive key IS NOT PAID, it is completely free</c>,LEARN HOW TO GET A KEYisHelp.icon_skins_brawlentines,icon_skins_club_leagueDiscordTelegram(questionmark_overlayMod TitleMod Description
+xBasexSpace
+yBaseySpacecolrowenabledBrawlifyBrawl Stats Brawl Time NinjafakeDebugButtonRed
+GreenBlueMOD MENU,map_editor_exit_buttonbtnNameinputId2TID_BAND_MAIL_POPUP_TITLE0TID_BAND_MAIL_POPUP_POST6TID_TEAM_SEARCH_POPUP_TITLE.TID_TEAM_JOIN_ROOM_CODE8TID_TEAM_SEARCH_POPUP_SEARCHposLX-Ray Autoshoot <cff0000>(EXPLOIT)</c>LRanked Mod <c669c35>(HALF-EXPLOIT)</c>RNani Ulti Mod <c669c35>(HALF-EXPLOIT)</c>DSkin Changer <c3a88fe>(VISUAL)</c>FTheme Changer <c3a88fe>(VISUAL)</c>DFont Changer <c3a88fe>(VISUAL)</c>HStatus Changer <c3a88fe>(VISUAL)</c> Spectate With IDJEmpty Pin <c669c35>(HALF-EXPLOIT)</c>PInvite By ID <c669c35>(HALF-EXPLOIT)</c>BAuto Dodge <cff0000>(EXPLOIT)</c>resetPopupCountintPtrthemeMatch
+themestatusMatchfontMatchfontdiscordButtonsempty pin6tale/csv_client/effects.csv:tale/csv_logic/characters.csv#2PP
+clicksomeSelected theme:Default.ttftalebrawl.comFhttps://brawlify.com/stats/profile/BRAWLIFY>https://brawlstats.com/profile/BRAWL STATSNhttps://www.brawltime.ninja/tr/profile/ BRAWL TIME NINJAXXXXXX0https://discord.gg/tsmod,https://t.me/talebrawltsf activateResponseARCNCNTDEESFIFRHEIDITJPKRMSNLPLPTTHVIRU activateKey?key=&androidID=0TID_CONNECTING_TO_SERVERTID_ABOUT&sc/debug.sc loaded!XonResume ¤   ä¦   ?ä   €?å   €?æ   €?ç   €?è   @?é   @?ê   @?ë   @>ä   €>å   €>æ   €>ç   ‚Â@è    Â@é    Â@ê    Â@ë    8ì   Aí   :ä   8ì   Aî   :å   ï   :æ   :ç   8ğ   Bñ   Â $ Ë8ì   ÂCí   Ë8ì   ÂCî   Ë8ì   Bí   ò   $ Ë8é   ğË8ê   ğÏ(æ"ñ 8NO6! 
+ „ 1  	Ôb v ş@C     cè mC   6ç   8ğ   Bõ   ö   $ B÷   ø   $ ;ç   8ç   —ì8å   ù   ñ)Ëm   8å   ú   ÇB9   $  ñ)/æĞ+@+qCĞ  ö @8ğ   Bñ   Â $ )æ 
+xB   	çø   ú  ü 0ş0€0‚  „  †  ˆ  Š 	 Œ 
+ è ö 8ç   —ì8å     ñ)m£  a a a 8ğ   Bõ     $ B	  $  B
+  $  Ë8ğ   Bõ     $ Ì8¢   !  Íb B:     	L  $ Î  B^   b   ß$ Åb L  Å8¡   B  Ä$ ÅÈB  8ç   Ä$ Å8ğ   Bõ     $ ÆB	  $  B  8æ   $ B      $ B  Ä$ B
+  $  Å	8ğ   B    8¢   !  B  $    8    B  8    B  $  Àè›$ L8   8ğ   Bõ     $ & L%   Â M   L   ÂM!  L!  L"  $ Å
+ÇB#  Ä	$ B$  Ä
+B	  $  $ )Åm+   8å   %  ÄB9   $  &  ÄA6   ñ)/æ#+;	I²c5|{:Y^]5D]56: A…
+ (?™0¼C    Î  è  8å   (  ÔB9   $  ñ)æ1lC   ÏÎ  Ò  Ô 0Ö   ØÚ
+a  ÔB.  $  Ë8ä   /  b  ñb  ÀÈ ¬í	b  ÀÌ ¬ì8ä   0  ñîY1  Ìm   ÔB  $  BJ   $  Ìî!Ím   8å   2  ÉB9   $  ñî/8å   3  b  4  Èñm   ÔB  $  B5  $  )Îm   8å   6  ÊB9   $  ñ)/æ45Sg?!]0q|]+qC    Pf 0   Ìa  8ä   B\   8ì   È$ 8™   B|   È$ B7  Â $ B]   8  $ Ë8è   9  b  ñ)æR!g bNC   ô  è m   8œ   Óñp(Ëm   ;  p(/æT+&!C    Pf 0   Ìa  8å   B\   8ì   È$ 8™   B|   È$ B7  Â $ B]   8  $ Ë8è   <  b  ñ)æ^!g bNC   ô  è m   8œ   Óñp(Ëm   ;  p(/æ`+&!CÒ   ú   ü  Â ËÂÌÇğÈ?  ñ)æj Æ'Cú    # 8ğ   Bñ   Â $ 8ì   Bí   @  $ )æk 
+R!]C  	  §	‚  @„  è †  ˆ @è Š  Œ @è	 
+Ëm&   8ğ   Bõ   G  $ ĞAH  Â CI  îÍm   î/m.   8ğ   Bõ   J  $ ÒAK  ÅÊAK  ÂCI  îÅm   î/m/   8ğ   Bõ   L  $ ÆAK  ÅÄAK  ÂCI  )Åm   )/æl^#'0]+ &5]0 &0C      ‚ Ë
+ãÇBH  $  )æq0C        ‚ ˆË Ìßì	ã)àB\   ÇÈ% æ|C        ‚ ŒË Ìßì	ã)àB\   ÇÈ% æŠCü \š  œ `` `¢p¤`¦`¨  @ÂÅa a a a a a  ËÌÍÓÎ	Å	Å8U  BV  W  $ BX  $  BY  Â $ 8Z  B[  b Â$ )æ™q   $B   F¸  	 	ÓA8   B]  O  $ ·§ìÓA^  g  )ÓA8   B]  _  $ ·§ìÓA^  g )æ¢v:v;C¨  3À  @œ 	·Ë8Z  B[  f  Bj    j    Ÿ$ Â Ma  La  $ )æ« !?C   Ä  À ß’ã½§ìÓBc  ¶$ )æ¯&<C  VÈ  ¤	¢œ 	¨¦	 	Ó·GBe  $  B]  f  $ ·§ìf —ì
+g Ó·GBe  $  B]  f $ ·§ì8Z  B[  f Â $ )æ¸! … "C    2Î 0¤ ¢œ¨ f  	ªì+a  
+g  8U  BV  f $ Ëb  AN  g âğ)æÀ5!XECÔ   z ` `¦`Ğ`ü   Ò  Â ÅÂÅa a a a  ËÌ	Íf  L8   LN  Lj  ÎÄğì,8ì   Bí   k  $ 8ë   b AN  b Aj  ò)8ì   Bí   >  $ Äğ)æÕg5!! PbvbCü   K  	 	¦	Ğ	8ì   Bí   l  $ 8U  BV  W  $ BX  $  BY  Â $ 8Z  B[  f  Â$ )æß
+b " B   F¸    ÓA8   B]  O  $ ·§ìÓA^  g  )ÓA8   B]  _  $ ·§ìÓA^  g )æáv:{;C  3È  ¦Ğ Ó·GBe  $  B]  f A8   $ ·§ì8Z  B[  f Â $ )æé "C    iÚ   ¦ Ğf  —ìc
+g  8U  BV  f A8   $ Ëf ÇAN  CN  f ÇAj  Cj  8ì   Bí   n  $ 8ë   f AN  f Aj  ò)æë!!qIIbwCÒ   MÚ   Ğ	8U  BV  f  A8   $ Ë8ì   Bí   o  $ Ç—ì	(f  ÇAN  CN  f  ÇAj  Cj  
+(æùqb	IICÖ¶ •úM¸œ @à  â päpæpè0êpìpîpğpòpô	pö
+pøpúpüpşp€p‚p„p†pˆpŠpŒ0p0’p”p–p˜pšpœ0p p¢ p¤!p¦"0¨#0ª$p¬%p®&p°'p²(p´)p¶*p¸+pº,p¼-0¾.0À/0Â0pÄ1pÆ2pÈ3pÊ4pÌ5pÎ60Ğ7pÒ8pÔ90Ö:0Ø;pÚ<pÜ=pŞ>pà?pâ@päApæBpèCpêDpìEpîFpğG0òHpôIpöJpøKpúLpüMpşNp€O0‚Pp„Qp†RpˆSpŠTpŒUp  @ W@’ X@” Y@– Z@˜ [@š \@œ ]@ ^   _@¢ ` ¤ a@¦ b ¨ c@ª d@¬ e@® f@° g@² h@´ i@¶ j@¸ k ºV0¼mp¾npÀopÂppÄqpÆrpÈspÊtpÌupÎvpĞwpÒxpÔypÖzpØ{pÚ|`Ü}`Ş~`à`â€`ä`æ‚`èƒ`ê„`ì…`î l@ğ ‡ ò ˆ@ô†pö ‰@ø ‹@úŠpüpşp€p‚p„‘p†’pˆ“pŠ”pŒ•p–p—p’˜p”™p–šp˜›pšœpœpp Ÿp¢ p¤ Œ@¦ ¢@¨ £@ª ¤@¬ ¥@® ¦@° §@² ¨@´ ©@¶ ª@¸ «@º ¬@¼ ­@¾ ®@À ¯ Â ° Ä ± Æ ² È ³ Ê ´ Ì µ@Î ¶@Ğ ·@Ò ¸@Ô ¹@Ö º@Ø »@Ú ¼@Ü ½@Ş ¾@à ¿@â À@ä Á@æ Â@è Ã ê Ä@ì Å@î Æ@ğ Ç@ò È@ô É@ö Ê@ø Ë@ú Ì@ü Í@ş Î@€	 Ï@‚	 Ğ@„	 Ñ@†	 Ò@ˆ	 Ó@Š	 Ô@Œ	 Õ@	 Ö@	 ×@’	 Ø@”	 Ù@–	 Ú@˜	 Û@š	 Ü@œ	 İ@	 Ş@ 	 ß@¢	 à@¤	 á@¦	 â@¨	 ã@ª	 ä@¬	 å@®	 æ@°	 ç@²	 è@´	 é@¶	 ê@¸	 ë@º	 ì@¼	 í@¾	 î@À	 ï@Â	 ğ@Ä	 ñ@Æ	 ò@È	 ó@Ê	 ô@Ì	 õ@Î	 ö@Ğ	 ÷@Ò	 ø@Ô	 ù@Ö	 ú@Ø	 û@Ú	 ü@Ü	 ı@Ş	 ş@à	 ÿ@â	 €@ä	 @æ	 ‚@è	 ƒ@ê	 „@ì	 …@î	 †@ğ	 ‡@ò	 ˆ@ô	 ‰@ö	 Š@ø	 ‹@ú	 Œ@ü	 @ş	 @€
+ @‚
+ @„
+ ‘@†
+ ’@ˆ
+ “@Š
+ ”@Œ
+ •@
+ –@
+ —@’
+ ˜@”
+ ™@–
+ š@˜
+ ›@š
+ œ@œ
+ @
+ @ 
+ Ÿ@¢
+  @¤
+ ¡@¦
+ ¢@¨
+ £@ª
+ ¤@¬
+ ¥@®
+ ¦@°
+ §@²
+ ¨@´
+ ©@¶
+ ª@¸
+ «@º
+ ¬@¼
+ ­@¾
+ ®@À
+ ¯@Â
+ °@Ä
+ ±@Æ
+ ²@È
+ ³@Ê
+ ´@Ì
+ µ@Î
+ ¶@Ğ
+ ·@Ò
+ ¸@Ô
+ ¹@Ö
+ º@‚ »@Ø
+ ¼@Ú
+ ½@Ü
+ ¾ Ş
+ ¿@à
+ À@â
+ Á@ä
+ Â@æ
+ Ã@è
+ Ä@ê
+ Å@ì
+ Æ@î
+ Ç@ğ
+ È@ò
+ É@ô
+¡pö
+ Ê@ø
+ Ì@ú
+ Í@ü
+ Î ş
+Ëp€ Ï@‚ Ñ@„ Ò@† Ó ˆ Ô@Š Õ@Œ Ö@ ×@ Ø@’ Ù@” Ú@– Û@˜ Ü@š İ@œ Ş@ ß@  à@¢ á@¤ â@¦ ã@¨ ä@ª å@¬ æ@® ç@° è ² é@´ ê@¶ ë@¸ ì@º í ¼ î ¾ ï@À ğ Â ñ@Ä ò@Æ ó@È ô@Ê õ@Ì ö@Î ÷@Ğ ø@Ò ù@Ô ú@Ö û Ø ü@Ú ı@Ü ş@Ş ÿ@à €@â  ä ‚@æ ƒ è „@ê … ì †@î ‡@ğ ˆ@ò ‰@ô Š@ö ‹@ø Œ@ú @ü @ş @€ @‚ ‘@„ ’ † “@ˆ ”@Š •@Œ –@ —@ ˜@’ ™@” š@– ›@˜ œ@š @œ @ Ÿ@   @¢ ¡@¤ ¢@¦ £@¨ ¤@ª ¥@¬ ¦@® §@° ¨@² ©@´ ª@¶ «@¸ ¬@º ­@¼ ®@¾ ¯@À °@Â ±@Ä ²@Æ ³@È ´@Ê µ@ÂÅWÂ ÅXÂ!ÅYÂ"ÅZÂ#Å[Â$Å\Â%Å]Â&Å^Â'Å_Â(Å`Â)ÅaÂ*ÅbÂ+ÅgÂ,ÅhÂ-ÅiÂ.ÅjÂ/ÅkÂ0Å‹Â1YHÂ4YKÂ5YLÂ6YMÂ7YNÂ:YPÂ;YQÂ<YRÂ=YSÂ>YTÂ?YUÂ@YVÂAYWÂBYXÂHYdÂIYfÂJYhÂKYjÂMYkÂNYmÂOYnÂPYoÂQYpÂRYqÂSYrÂTYwÂUYxÂVYzÂWY{ÂXY|ÂYYÂZY€Â[YÂ]Y…Â^Y†Â_Y‡Â`YˆÂaY‰ÂbYŠÂcY‹ÂdYŒÂeYÂfYÂgYÂhYÂiY‘ÂjY’ÂkY“ÂlY”ÂmY•ÂnY–ÂoY—ÂpY˜ÂqY™ÂrYšÂsY›ÂtYœÂuYÂvYÂwYŸÂxY ÂyY¢ÂzY£Â{Y¤Â|Y¥Â}Y¦Â~Y§ÂY¬Â€Y­ÂY®Â‚Y¯Â„Y²Â…Y³aOaJa  aŸ a a aœ a› aš a™ a˜ a— a– a• a” a“ a’ a‘ a a a a aŒ a‰ a… a„ aƒ a‚ a a€ a a~ a} a| a{ az ay ax aw av au at as ar aq ap ao an am al aU aT aS aR aQ aP aO aN aM aL aK aJ aI aH aG aF aE aD aC aB aA a@ a? a> a= a< a; a: a9 a8 a7 a6 a5 a4 a3 a2 a1 a0 a/ a. a- a, a+ a* a) a( a' a& a% a$ a# a" a! a  a a a a a a a a a a a a a a a a a a a a a a
+ a	 a a a a a a a a a  8&  B'  ÓÔ(  $ 8)  8€   B*  +  q  $ ,  -  & ! Ë8)  8€   B*  +  r  $ 
+   ,  & ! Ì8€   B.  +  /  $ ÍÓBj   0›| $ Î8)  ÓBj   ğuI $ 
+   ,  ,  0  0  0  & ! Å8)  ÓBj   ¸ $ ,  ,  ,  & ! Å8)  ÓBj   TjI $ 
+   ,  ,  1  0  & ! Å8)  ÓBj   ä½| $ ,  ,  ,  & ! Å8)  ÓBj   äC $ 
+   ,  0  & ! Å8)  ÓBj   ÀI $ 
+   ,  & ! Å	8)  ÓBj   ÌŸ $ ,  ,  ,  & ! Å
+8)  ÓBj   ¬_I $ ,  &  ! Å8)  ÓBj   hpY $ 
+   ,  ,  & ! Å8)  ÓBj   ŒkY $ 
+   ,  ,  0  0  ,  ,  ,  & ! Å8)  ÓBj   ,7= $ ,  ,  & ! Å8)  ÓBj   ¸ì< $ ,  &  ! Å8)  ÓBj   „¸| $ ,  ,  & ! Å8)  ÓBj   €»| $ ,  &  ! Å8)  ÓBj    #¸ $ ,  ,  ,  & ! Å8)  ÓBj   àÃI $ ,  ,  ,  2  & ! Å8)  ÓBj    ¢Ÿ $ ,  ,  ,  & ! Å8)  ÓBj   €o¸ $ ,  ,  ,  & ! Å8)  ÓBj   4¡ $ 
+   ,  ,  ,  & ! ÅÓBj   ¬<| $ Å8)  ÓBj   lŸ $ 
+   ,  0  & ! Å8)  ÓBj   (º¤ $ 
+   ,  ,  ,  & ! Å8)  ÓBj   øØ“ $ 0  ,  & ! Å8)  ÓBj   ¸àÂ $ 
+   ,  & ! Å8)  ÓBj   °M $ 
+   ,  & ! Å8)  ÓBj   Ì!M $ 
+   ,  & ! Å8)  ÓBj   ´(¡ $ 
+   ,  ,  & ! Å8)  ÓBj   ÌÍI $ ,  ,  ,  0  & ! Å8)  ÓBj   ¤ š $ ,  ,  ,  & ! Å 8)  ÓBj   hzY $ ,  ,  ,  0  & ! Å!8)  ÓBj   dŒY $ ,  ,  ,  0  & ! Å"8)  ÓBj   ØqY $ 
+   ,  0  0  & ! Å#8)  ÓBj   8!= $ 
+   ,  & ! Å$8)  ÓBj   œ!= $ 
+   ,  & ! Å%8)  ÓBj   dsP $ ,  ,  ,  0  & ! Å&8)  ÓBj   ìˆb $ ,  ,  ,  0  & ! Å'ÓBj   ˆtü $ Å(ÓBj   ,ËI $ Å)ÓBj   ŒoP $ Å*ÓBj   à'ü $ Å+ÓBj   P„b $ Å,ÓBj   ¬¤~ $ Å-ÓBj   l‘| $ Å.8)  ÓBj   hXe $ ,  ,  ,  & ! Å/ÓBj   ä8¡ $ Å08)  ÓBj   ˆ%¡ $ 
+   ,  & ! Å1ÓBj   $­’ $ Å28)  ÓBj   Xn– $ ,  ,  & ! Å38)  ÓBj   P¸{ $ ,  ,  & ! Å48)  ÓBj   P¸{ $ ,  &  ! Å58)  ÓBj   ” $ 
+   ,  1  1  & ! Å68)  ÓBj   h“ $ 0  ,  0  0  & ! Å78)  ÓBj   |X‘ $ ,  ,  0  & ! Å88)  ÓBj   ”M $ 
+   ,  ,  & ! Å98)  ÓBj   ¤ŠM $ 
+   ,  ,  & ! Å:8)  ÓBj   ”Ve $ ,  ,  ,  & ! Å;8)  ÓBj   ‚’ $ ,  ,  0  & ! Å<8)  ÓBj   ³c $ ,  ,  ,  & ! Å=8)  ÓBj   ¨Ib $ 
+   ,  ,  ,  ,  ,  0  0  0  & ! Å>8)  ÓBj   €’ $ ,  ,  2  2  & ! Å?8)  ÓBj    ¸” $ ,  ,  ,  2  & ! Å@8)  ÓBj   Ü”i $ 2  ,  & ! ÅA8)  ÓBj   °7‘ $ ,  ,  & ! ÅB8)  ÓBj   @H‘ $ 
+   ,  0  0  0  0  & ! ÅC8)  ÓBj   3‘ $ 
+   ,  0  0  0  & ! ÅD8)  ÓBj   ¤‘ $ ,  ,  0  0  & ! ÅEÓBj   À,ü $ ÅFÓBj   ¨P› $ ÅG8)  ÓBj   ˆ—r $ ,  ,  & ! ÅH8)  ÓBj   œr $ 
+   ,  ,  & ! ÅI8)  ÓBj   dQ $ ,  ,  ,  & ! ÅJ8)  ÓBj   „÷I $ 
+   ,  ,  ,  ,  2  & ! ÅK8)  ÓBj   8ÿI $ 
+   ,  0  0  & ! ÅL8)  ÓBj   @ÿI $ 
+   ,  ,  & ! ÅMÓBj   @= $ ÅN8)  ÓBj   Xê~ $ ,  ,  & ! ÅOÓBj   ‘P $ ÅPÓBj   ( $ ÅQÓBj   ¹X $ ÅRÓBj   dØ $ ÅSÓBj   I[ $ ÅTÓBj   Ú1 $ ÅUÂ M3  L3  ÂT4  ÂT5  ÂM6  L6  ÂM7  L7  ÂM8  L8  ÂM9  L9  ÂM:  L:  ÂM;  L;  Â	M<  L<  Â
+M=  L=  ÂM>  L>  ÂM?  L?  ÂM@  L@  ÂMA  LA  ÂMB  LB  ÂMC  LC  ÂMD  LD  ÂME  LE  ÂTF  ÂTG  ÂTH  ÂTI  ÂMJ  LJ  ÂTK  ÂTL  ÂTM  ÂTN  ÂTO  ÂTP  ÂTQ  ÅV¿ Åc¿$Åd¿Åe¿ÅfR  ÄVBM  $  Ålbl S  Åmbl T  Ånbl U  Åobl V  Åpbl W  Åqbl X  Årbl Y  Åsbl Z  Åtbl [  Åubl \  Åvbl ]  Åwbl ^  Åxbl _  Åybl `  Åzbl a  Å{ÄVB5  b  $ Å|ÄVB5  c  $ Å}ÄVB5  d  $ Å~ÄVB5  e  $ ÅÄVB5  f  $ Å€ÄVB5  g  $ ÅÄVB5  h  $ Å‚ÄVB5  i  $ ÅƒÅ„Å…	Å†j  Å‡¸Lk  	Ll  	Lm  	Ln  	Lo  	Lp  	Lq  	Lr  	Ls  	Lt  	Lu  	Lv  	Lw  	Lx  	Ly  	Lz  	L{  	L|  	L}  	L~  	L  	L€  	L  	L‚  Lƒ  	L„  L…  Åˆ†  L‡  ˆ  L‰  Š  Lî   ‹  Lo  Œ  L    L    L‘  ’  L“  ”  L•  –  L—  ˜  L6  ™  Lš  ›  Lœ    L  Ÿ  L   ¡  L¢  £  L¤  ¥  L¦  §  L¨  ©  Lª  «  L¬  ­  L®  ¯  L°  ±  L²  ³  L´  µ  L¶  ·  L¸  ¹  Lv  º  Ly  »  L¼  ½  L¾  ¿  LÀ  Á  LÂ  Ã  LÄ  Å  LÆ  Ç  LÈ  É  LÊ  Ë  LÌ  Í  LÎ  Ï  LĞ  Ñ  LÒ  Ó  Lâ  Ô  LT  Õ  L  Ö  L×  Ø  LÙ  Ú  LÛ  Ü  Lİ  Ş  Lß  à  Lá  â  Lã  ä  Lå  æ  L!  ç  L"  è  Lé  ê  Lë  ì  Lí  î  Lï  ğ  Lñ  ò  Ló  ô  Lõ  ö  L÷  ø  Lù  ú  Lû  ü  Lı  Lş  ÿ  L     L    L    L    L  	  L
+    L    L    L    L    L  L    L‡    L‰  š   Lî     Lo    L    L    L‘    L“    L•    L—    L6     Lš  !  Lœ  "  L  #  L   $  L¢  %  L¤  &  L¦  '  L¨  (  Lª  )  L¬  *  L®  +  L°  ,  L²  -  L´  .  L¶  /  L¸  0  Lv  1  Ly  2  L¼  3  L¾  4  LÀ  5  LÂ  6  LÄ  7  LÆ  8  LÈ  9  LÊ  :  LÌ  ;  LÎ  <  LĞ  =  LÒ  >  Lâ  ?  LT  @  L  A  L×  B  LÙ  C  LÛ  D  Lİ  E  Lß  F  Lá  G  Lã  H  Lå  I  L!  J  L"  K  Lé  L  Lë  M  Lí  N  Lï  O  Lñ  P  Ló  Q  Lõ  R  L÷  S  Lù  T  Lû  U  Lı  Lş  V  L   W  L  X  L  Y  L  Z  L  [  L
+  \  L  ]  L  ^  L  _  L  `  L  La  Å‰b‰ Aa  ÅŠ8¡   B÷   ÄVB5  b  $ $ ÅŒ8¡   B÷   ÄVB5  c  $ $ Å8¡   B÷   ÄVB5  d  $ $ Å8¡   B÷   ÄVB5  e  $ $ Å8¡   B÷   ÄVB5  f  $ $ Å8¡   B÷   ÄVB5  g  $ $ Å‘8¡   B÷   ÄVB5  h  $ $ Å’8¡   B÷   ÄVB5  i  $ $ Å“8¡   B÷   ÄVB5  j  $ $ Å”8¡   B÷   ÄVB5  k  $ $ Å•8¡   B÷   ÄVB5  l  $ $ Å–8¡   B÷   ÄVB5  m  $ $ Å—8¡   B÷   ÄVB5  n  $ $ Å˜8¡   B÷   ÄVB5  o  $ $ Å™8¡   B÷   ÄVB5  p  $ $ Åš8¡   B÷   ÄVB5  q  $ $ Å›8¡   B÷   ÄVB5  r  $ $ Åœ8¡   B÷   ÄVB5  s  $ $ Å8¡   B÷   ÄVB5  t  $ $ Å8¡   B÷   ÄVB5  u  $ $ ÅŸ8¡   B÷   ÄVB5  v  $ $ Å w  Å¡x  B^   Ä‡y  $ Å¢ÄˆAr  Å£ÄˆAs  Å¤ÄˆAp  Å¥ÄˆAq  Å¦ÄˆAn  Å§ÄˆAw  Å¨ÄˆA{  Å©ÄˆA|  ÅªÄˆA~  Å«	Å¬	Å­	Å®b  ÀñÅ¯b  ÀñÅ°b  ÀñÅ±b  ÀñÅ²b  ÀñÅ³b  ÀñÅ´ÅµÅ¶Å·Å¸Å¹ÅºÅ»Å¼Å½Å¾Å¿ÅÀÅÁ	ÅÂ	ÅÃÅÄb  ÀñÅÅb  ÀñÅÆb  ÀñÅÇb  ÀñÅÈb  ÀñÅÉb  ÀñÅÊb  ÀñÅËb  ÀñÅÌb  ÀñÅÍb  ÀñÅÎb  ÀñÅÏb  ÀñÅĞb  ÀñÅÑb  ÀñÅÒb  ÀñÅÓb  ÀñÅÔb  ÀñÅÕb  ÀñÅÖb  ÀñÅ×b  ÀñÅØb  ÀñÅÙb  ÀñÅÚb  ÀñÅÛb  ÀñÅÜb  ÀñÅİb  ÀñÅŞb  ÀñÅßb  ÀñÅàb  ÀñÅáb  ÀñÅâb  ÀñÅãb  ÀñÅäb  ÀñÅåb  ÀñÅæb  ÀñÅçb  ÀñÅèb  ÀñÅéb  ÀñÅêb  ÀñÅëb  ÀñÅìb  ÀñÅíb  ÀñÅîb  ÀñÅïb  ÀñÅğb  ÀñÅñb  ÀñÅòb  ÀñÅób  ÀñÅôb  ÀñÅõb  ÀñÅöb  ÀñÅ÷b  ÀñÅøb  ÀñÅùb  ÀñÅú¸Åû·Åü	Åı
+Åş	Åÿ¿¡Y ¿âY¿#Y¿ZYÀ$ÿY¿µY¿FYÀ× YYY	Y
+YYYYYYYYYb  ÀñYb  ÀñYb  ÀñYb  ÀñYb  ÀñYb  ÀñYb  ÀñYb  ÀñYb  ÀñYb  ÀñYb  ÀñYb  ÀñYb  ÀñY b  ÀñY!b  ÀñY"b  ÀñY#b  ÀñY$b  ÀñY%b  ÀñY&b  ÀñY'b  ÀñY(b  ÀñY)b  ÀñY*b  ÀñY+b  ÀñY,œqLz  b  ÀñL{  |  L}  œœqLz  b  ÀñL{  ~  L}  °œqLz  b  ÀñL{    L}  ±œqLz  b  ÀñL{  €  L}  ’œqLz  b  ÀñL{    L}  ¡œqLz  b  ÀñL{  ‚  L}  [œqLz  b  ÀñL{  ƒ  L}  µœqLz  b  ÀñL{  „  L}  & Y-¸Lz  b  ÀñL{  …  L†  ¹Lz  b  ÀñL{  ‡  L†  ºLz  b  ÀñL{  ˆ  L†  »Lz  b  ÀñL{  ‰  L†  ¼Lz  b  ÀñL{  Š  L†  ¿Lz  b  ÀñL{  ‹  L†  ¾Lz  b  ÀñL{  Œ  L†  ¿Lz  b  ÀñL{    L†  ¿	Lz  b  ÀñL{    L†  ¿
+Lz  b  ÀñL{    L†  ¿Lz  b  ÀñL{    L†  ¿Lz  b  ÀñL{  ‘  L†  & Y.’  L  b  ÀñL{  “  L}  ”  L  b  ÀñL{  •  L}  –  L  b  ÀñL{  —  L}  ˜  L  b  ÀñL{  ™  L}  š  L  b  ÀñL{  ›  L}  œ  L  b  ÀñL{    L}  & Y/  Y0ÃY1ºY2¸Y3¿Y4¸Y5	Y6ÃY7	Y8¿dY9	Y:
+Y;Y<Ÿ  Y=   Y>¡  Y?·Y@&  YAÀÿ YBÀÿ YCÀÿ YD	YE·YF·YGÂ2M¹  YIÂ3Mº  YJÂ8T¢  Â9T£  YOXSğYYYZY[Y\	Y]	Y^	Y_	Å®·Y`
+Ya
+YbÂCT¤  ÂDT¥  ÂET¦  ÂFT§  ÂGT¨  Yc	Ye	Yg·Yi8Z  B[  b< ÂLM©  L©  $ 	Yl	YsYt·Yu¿dYv	Yy	Y}Y~	Y‚8Z  B[  b/ Â\T©  $ 	Yƒ	Y„8»   !  Y¡¿(Y¨ÀY©¸Yª¸Y«8ª  ÂƒÀ¸ò	Y°·Y±8Z  B[  bG Â†T©  $ 8Z  Bc  b- 8«  Â‡0  &  ! $ 8Z  Bc  b 8«  Âˆ,  ,  & ! $ 8Z  B[  b Â‰T©  $ Y´8Z  B[  b# ÂŠT©  $ 8Z  Bc  b1 8«  Â‹
+   ,  & ! $ 8Z  Bc  b& 8«  ÂŒ
+   ,  ,  0  & ! $ 8Z  Bc  b' 8«  Â
+   ,  ,  0  & ! $ 	Yµ8ğ   Bñ   Â$ 8ğ   Bñ   Â$ 8ğ   Bñ   Â$ 8Z  B[  b. Â‘M©  L©  $ 8Z  B[  b Â’M©  L©  $ 8Z  B[  b9 Â“Ta  $ 8Z  B[  b: Â”Ta  $ XdğXfğXkğXmğXnğXqğXoğXpğXxğXzğX{ğXğX…ğXhğ8ì   Bí   ¬  $ )æĞ Íméé N :Ú 5ÚÚÁÚ¨Ú DÁ¨Á¨ÚóÚÚóSÚóÁÁÁÁÚóÚóóóÁÁóóSSSSSSSÚSÁSÁÁ¨óóÚÚÚÚÚÚ IóóÁÁ : 5óSSÁÚÚ :óÚSÂSSTSS 
+  < < $  & 
+   n n  8 < 0    ¨     j    R Ò  
+- – 8];:;:::::::::;:;XXXXXXXY'!!!!!!!!!!!!!!!!!!!!!!!!!!!55555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555 
+™™š™™™™™™™™™™™™™™™™™š& 
+
+ $000000001000001010100010000000000010000000000100000000010001101000001!"5555555565556665555565567¨¨¨¨¨¨¨·”””””™”™™™™¨¨¨¨¨¨·+++,"!!! 8 
+ 
+0
+-+ t N   \ \ +  $ :  
+? ( î > ~ l +  ¨
+ ü! „   ô
+K+cY r +" z+ 
+s ¤ ¤ 
+" 
+" 
+:" 
+? "?K+K+ 
+]C   eÚ  Ü   Ş  à  8€   B.  +  ®  $ Ï—ì8ì   Bí   ±  $ ·Ì8)  Ç0  ,  0  & ! 8&  B²  Ó$ ÈòÑ·¬ì
+(	(æõvdàB     @b @8ğ   Bñ   Â $ )æ 
+4C    ëæ 0è0ê0ì0î0ğ0ò0ô0ö0ø	0ú
+0ü b  mJ  a
+ a	 a a a a a a a a a  8ğ   Bõ   ¿  $ Ë8ğ   Bõ   À  $ Ì8ğ   Bõ   Á  $ Í8ğ   Bõ   Â  $ Îb  BÃ  Ä  $ BÅ  $  Åb Æ  ßÅb B	  b $ Åb B	  b $ Åb BÇ  $  —ìb BÈ  $  b B	  b $ Åb B	  b É  $ Å	8ğ   Bõ   Ê  $ B	  à$ BË  $  Å
+b	 BÌ  b
+ ·b
+ ë$ b	 B5  $  b B5  $  )Åm   8ì   Bí   Í  Ä$ )/æ‚Ábbbc…DTSIASm¼g??0qB  Gœ @à  @ü 8ğ   AÏ  ì:m   ÃË8ğ   Bñ   Â $ Çp(Ìm   8ì   Bí   Ğ  È$ p(/(æŸ? 
+!&l	C    ¥¢   ¤  ¦  ¨  ª  ¬  ®  œ à 8ğ   Bõ   Ø  $ Ë8ğ   Bõ   Ù  $ Ì8ğ   Bõ   Ú  $ BÛ  $  BÜ  $  ÑBİ  $  ÒBŞ  ß$ ÅÇB	  ÈB	  Ä$ $ ÅÄBß  $  ÆõíàÄà  äîåÄB5  $  ÄB5  $  )æ£bc­0?rN::5C   õÚ  ¼   Â  ê  Ä  Æ  È     8€   B.  +  Ş  $ Ë8€   B.  +  á  $ Ì8€   B.  +  5  $ Í8)  Ç0  ,  0  & ! 8&  B²  Ó$ ·òÒ·¤ì8ì   Bí   å  Ó$ 8&  Bæ  À $ Å8)  È0  0  ,  0  & ! ÊÄÀ óÅÄBe  Ä$ Å8)  É0  0  & ! ÊñÄ(æ½{{|ßn]ÕJ…C   oÚ  Î   à  8€   B.  +  ç  $ Ë8)  Ç0  ,  & ! 8&  B²  Ó$ ñĞ·¬ì8ì   Bí   è  Ó$ )8ì   Bí   é  Ó$ )æÏ{ÁlmC   ü
+Ú  Ô  ¼   ˜  ê  Ö  Ø  Ú  Ä  Ü  8€   B.  +  Ş  $ Ë8€   B.  +  Ì  $ Ì8€   B.  +  5  $ Í¸Î¿@ÅÀ Å8)  Ç0  ,  0  0  & ! 8&  B²  Ó$ ÊÄ°Ä°À¤óÆ·¤ì8ì   Bí   ï  Ó$ 8)  È0  0  ,  0  & ! Ä8&  B²  Ô$ ÔëóÅ8)  É0  0  & ! ÄñÄ(æÙ{{| :!n 6‹C   Ú  à  â     Ì8¡   B  Ô¹$ ËÈB8  ÓÇ$ )æìX:C  Rä  æ  è `ê ²0a  ÃËa ·Ìb Ôë¤ì?a ÔBö  ·b ¸$ ÷  c  ÓBø  Â $ Íb ¶­ìb (b ’c î»¶(æñ	S…?&5B   ò  è 	ÓBú  û  B^   f  û  $ % æõ C  :´ @ø  ú 0ü0a a  ÓBÿ  $  ×8˜   Bı  Ô$ Ëb  B   Â $ Ìb ìÔb G((æı!5OJB   
+‚  ´ ÓBú  ß% æ C  î„  ğ  æ  † @¼ 0Â0˜0ê0ˆ0Ø0Ú0Š0Œ0	0Æ
+0È  ä0’0”0–0˜0š0œ00 0¢0¤0Ü   ÅmÅ  a a a a a a a a a a a a a a
+ a	 a a a a a a a a a  8)  8€   B.  Ş  $ 0  ,  0  0  & ! Ë8)  8€   B.  á  $ 0  0  ,  0  & ! Ì8)  8€   B.  Ì  $ 0  0  ,  0  & ! Í8)  8€   B.  5  $ 0  0  & ! Î¹Å¿@ÅÀ Å8&  B²  Ó$ Åb  b b ·óÅÀ Å	8&  Bæ  b	 $ Å
+ÅÃÅb b b
+ b	 óc ·¦ìb 8&  Be  b
+ b $ c îÎb b ñb Bc  Á Á3à  $ B_   à  $ ÅÄB:  b Õ$ Åb B   Â$ Åb ¶¬íb —ìp(b b GB_     $ B  ·¹$ Åb B_     $ B  ¹$ Åb B^   b $ B]     $ Åb b sb I8&  B²  Ô$ Åb  b b b °b °À¤óÅb B]   à  $ Å8&  B²  b $ Åb b b b ëóÅb b ñ8ì   Bí     Ô$ )Åm!   8ì   Bí     ÄA3   $ )/æ†/ M 4 4 4ÖSE]l,¸SON	£Š•;Sw]^T+l0Š\r\n:       õÿÿÿ  
+  
+B   ®  †ÓBú  û  B^   ßû  $ % æ¢ C  £„  ğ  ® @¼ 0Â0˜0ê0ˆ0Ø0Ú0Š0Œ0	0Æ
+0È  ä0°0²0”0–0˜0š0 0œ00¢0Ü mı  a a a a a a a a a a a a a a
+ a	 a a a a a a a a a  8)  8€   B.  Ş  $ 0  ,  0  0  & ! Ë8)  8€   B.  á  $ 0  0  ,  0  & ! Ì8)  8€   B.  Ì  $ 0  0  ,  0  & ! Í8)  8€   B.  5  $ 0  0  & ! Î¹Å¿@ÅÀ Å8&  B²  Ó$ Åb  b b ·óÅÀ Å	8&  Bæ  b	 $ Å
+ÅÃÅb b b
+ b	 óc ·¦ìb 8&  Be  b
+ b $ c îÎb b ñb Bc  Á Á3à  $ B_   à  $ Å8  Bc  ÁÁ3à  $ B_   à  $ Åb Bø  Â$ Åb B   Â$ Åb ¶¬íb —ìp(b b GB_     $ B  ·¹$ Åb B_     $ B  ¹$ Åb B^   b $ B]     $ Åb b sb Ib B  ·b ¸$ B]   à  $ à  Å8&  B²  Ô$ Åb  b b b °b °À¤óÅ8&  B²  b $ Åb b b b ëób b ñ8ì   Bí     Ô$ )Åm!   8ì   Bí     ÄA3   $ )/æ½0 M 4 4 4ÖSE]l,·ÂNON	£Š•:ÂSw]N,l0Š\r\n:       õÿÿÿ  
+  
+\r\n:       õÿÿÿ  
+  
+B    ®  ÓBú    % æÙ B   ®  ®ÓBú  û  B^   ßû  $ % æÚ C   EÚ      è   ÍÉB6  Ó$ Ëm   8¡   B÷   Ç$ p(Ìm    8ì   Bí     ÈA3   $ )/æô:N&…C 
+  ¹Ô  ¾   À  ê  Â  Ä  Æ  È  Ê  Ì  Î 	 (  ËÃÌ·ÍÉÓë¤j¨   ÓB)  É’Í$ ÎÓB)  É’Í$ ÅÓB)  É’Í$ ÅÊ¹¢ÅÊº®»¡Ä»¢°ÅÄ¿®¹¡Ä½¢°ÅÄ¿?®Å	8*  Äñì	¿@Æ	Åî8*  Äñì¿@Å	ÈÇB+  Ä$ ÇB+  Ä$ ÇB+  Ä$ ÇB+  Ä	$ ÌïUÿÈ(æı!0DIJ?I'5!?{…C 
+ íÔ  ¾   À  ê  È  Ê  Ì  Î  Â  Ä  Æ 	 (  ËÃÌ·ÍÓBc  Á Á3Ã$ ×ÉÓë¤jÌ   ÇB]  ÓB+  É’Í$ $ ÎÇB]  ÓB+  É’Í$ $ ÅÇB]  ÓB+  É’Í$ $ ÅÇB]  ÓB+  É’Í$ $ ÅÊ¹¡Ä»¢°ÅÄ¿®»¡Ä¹¢°ÅÄº®½¡Ä°Å	È8œ   B,  Ä$ ÌÄ¿@«ìÈ8œ   B,  Ä$ ÌÄ¿@«jHÿÿÿÈ8œ   B,  Ä	$ Ìï1ÿÈ(æ™!T0qvvw5I;^&^5^$[^A-Za-z0-9\+\/\=]d +      õÿÿÿ    * , . : < > @ [ ` { ÿÿ 
+C   ªÚ  @Ü  Ş  æ8ğ   AÏ  ìÃË8ğ   Bñ   Â $ Ç(8)  f  0  ,  ,  & ! Ì8&  Bæ  À€ $ ÍÈ8&  B²  0  $ ÉòÉBe  $  8  «ì2ÉBe  $  Ã«ì%ÉBe  $  «ìÉBe  $  ë¼¦ì
+ÉBe  %  	(æ·? 
+!	Xq 92B    Yâ 0¦0Ú a a  8ğ   Bõ   2  $ Ë8ğ   Bõ   Ú  $ BÛ  $  BÜ  $  Ìb  B3  b B4  $  5  $ ã)æ»!b²C    „  ÓÀÿ ®¿¡Ó¿¢Àÿ ®°(æÏC    *„  ÓÀÿ ®¿¡Ó¿¢Àÿ ®¿¡°Ó¿¢Àÿ ®¿¡°Ó¿¢Àÿ ®°(æÓ+??0C 
+  ­ì  î  ğ   ò  ô    Î8&  Bæ  ¿$ ÏB;  ¹$ ÇBj   ¹$ B;  ÊBB  Ô$ $ ÓB_   <  $ B7  8›   $ Ğ·G¿¡È¸G¿¡°È¹G¿¡°ÈºG°ÍÇBj   »$ B=  ÊBC  É$ ·£$ ÇBj   ¿$ B>  ········& $ Ç(æÜN:”Š€C 	 ã!ş  î  Ú  €   ‚  „  †  ê  ˆ  Š  Œ     	 ’ 
+ ”  –  Ä  ˜  š  œ  à       Š  ¢  Æ  ¤  Ò  È  ¦  ¨  ª    öŠÅ8€   B.  +  @  $ Ë8€   B.  +  A  $ Ì8€   B.  +  B  $ Í8€   B.  +  C  $ Î8€   B.  +  5  $ Å8€   B.  +  D  $ Å8€   B.  +  E  $ ÅÇ—í%È—íÉ—íÊ—íÄ—íÄ—íÄ—ì(¹Å¸ÅÀ Å	»Å
+¸ÅÀXÅ8)  Ç0  0  0  0  & ! ÄÄ·óÆ·¤ì(m  ÄBD  ÓÔ$ Å8)  Ä0  0  0  0  & ! ÆÄ»Ä	ó8)  È0  0  ,  0  & ! ÆÄÄ¿óÆ·¤ìn8&  Bæ  ¿$ ÆBV  Ä$ ÄBj   »$ BW  Ä
+$ 8)  Ä0  ,  0  0  & ! ÆÄ¸Äó·¥ìßA²  pnN  (X  B^   ÕY  $ Z  B^   Ó[  $ \  Å8)  É0  0  ,  0  0  & ! ÆÄ8&  B²  Ä$ Äë·" 8&  Bæ  À $ Å8)  Ê0  0  ,  0  0  & ! ÅÃÅ8&  Bæ  ¿$ ÆBV  Ä$ ÄBj   »$ BW  Ä$ ÄÄ¸Äó·¥í+ÄÄÄÀ ·" Æ·¦ìÄÄBe  Ä$ ÅÄ·¦íËÄB]  ]  $ Æ¶­ìÄBö  Ä»$ ÅÄpn   (n   /8)  Ä0  0  & ! ÆÄñoæç;{{{{€€Ú	Æ!	J­1¨1!NDr­??
+”NÁ‹]ËNDs5NY"N!U+&{!B     $¼   8¢   !  B  $  Ë8    B  ÇÀèœ% æ¼]B      % 8    B  8    B  $  ¹NW›$ À{(æÁB   z¾  À    ËÇBG  $  B9   $  <  8a  Ó;†  ›ñB9   $  <  ÇBG  $  B9   $  <  8a  ÔÀ¡6›ñB9   $  <  ÇBG  $  B9   $  (æÅB   NÄ  ¾   À  8a  ÓB9   $  B_   <  $ ¸G;†  œñË8a  ÓB9   $  B_   <  $ ºGÀ¡6œñÌÇÈ& (æÉ¼³C 	  ¿ş  î  Ú  Ô  €   ‚  „  †  ê  Œ    Ä  ˜  œ 	 Š 
+ ¢  Æ  ¤  È  Ò  ª    Å8€   B.  +  @  $ Ë8€   B.  +  A  $ Ì8€   B.  +  B  $ Í8€   B.  +  C  $ Î8€   B.  +  5  $ ÅÇ—íÈ—íÉ—íÊ—íÄ—ì)¹Å¸Å8)  Ç0  0  0  0  & ! ÄÄ·óÆ·¤ì)mK  ÄBD  ÓÔ$ Å8)  È0  0  ,  0  & ! Æ	ÄÄ¿ó·¤ì	pn  (c  B^   ÕY  $ Z  B^   Ó[  $ d  e  B^   Öë]  $ ÃB^   Ö$ Å
+8)  É0  0  ,  0  0  & ! ÆÄ8&  B²  Ä
+$ Ä
+ë·" 8&  Bæ  À $ Å8)  Ê0  0  ,  0  0  & ! ÆÄÄÀ ·" Æ·¤ì8ì   Bí   f  $ ÄBe  Ä$ Æpn   (n   /8)  Ä0  0  & ! ÆÄñoæĞ${{{{•	Æ"	J¨E&	”N:X'Á‹]ÁD!d@+&{!B   rÎ  ‚  à  ê Ğ   Îa  ÃËa ·Ìb Óë¤ì>a Ób GB)  ·$ Ô¯Óë›ÔÍb  b B9   $  i  c  b ’c î¼ÊB?  b  B  ·¶$ i  ÓëÔ¯% æ…Sq…5B   yÔ  ‚  Ö  ` à  Ø   Åa a a  ÄB@  Ó$ ÛB_   i  $ Ëb  Bm  $  Ô¯ÌÃÍa b  î1Îa 8a  b ñÔŸb œÔ¯Åb 8œ   B,  b $ c ‚ ìÍ…b (æ	??IJDb€"B       n  (æœB  HŞ @   @Ü 8ğ   AÏ  ì<ÃËm   8ğ   Bñ   Â $ î Ìm   8ì   Bî   p  È$ p(/Ç()æŸ? 
+:!0lC    –â   ä  ¢  ¤  ¨  æ  è  Ô  ª  ¬ 	 ® 
+ Ş   8ğ   Bõ   u  $ Ë8ğ   Bõ   v  $ Ì8ğ   Bõ   Ø  $ Í8ğ   Bõ   Ù  $ ÎÇB	  ß$ ÆBw  $  Å8ğ   Bx  ÄÈ$ ÆBy  z  $ ÄB{    |  $ ÄB}  $  ÆÀÈ ¬ìÄB~  $  ÅîÄB  $  ÅÉB	  ÊB	  Ä$ $ Å	Ä	Bß  $  Æ
+õíàÄ
+à  äîåÄ	B5  $  ÄB5  $  ÄB€  $  )æ£bbbc5?TSm5+?ArN:::5B  &‚ @„  † @ˆ  @Š 	Ëm   8ğ   B†  Â $ îÌm   î/Ç(æÈ
+ 
+º"1C    ßâ   ä    ê  è   æ  ª  ’  ” 	 – 
+ ˜  š  ¨  Ô  Æ  È  œ      è è Ú# Ú' ¢  ¤. †‚ ˆ mg   8ğ   Bõ   u  $ Ë8ğ   Bõ   v  $ Ì8ğ   Bõ   “  $ Í8ğ   Bõ   Á  $ Î8ğ   Bõ   À  $ ÅîÅm   p(/ÅÅÅÅ	m¾  ÄB	  ß$ Æ
+B”  $  Æªì	pn²  (ÄBÇ  $  —ìÄBÈ  $  Æ—ì:ÄB•  $  —ì-î+ÄB–  $  —ì	pnr  (ÄB•  $  —ì	pn]  (ÇB	  à$ ÆBw  $  Å8ğ   Bx  ÄÈ$ Æ	By  z  $ Ä	B—  À˜:$ Ä	B˜  À0u$ Ä	B™  
+$ Ä	BA  $  Ä	B}  $  ÆÈAš  AB   ¬j‰   Ä	B~  $  Åmm   ÊB	  Ä
+$ Å8ğ   B›  œ  8™   À ! B  ·$ $ Å¶Å·ÅÄBá  Ä$ Æ¶­ìÄBÌ  Ä·Ä$ Ä•îÙ
+åî:Åm   î0/Ä	B  $  Æ«ìm   ÄB5  $  îÅm   î/n   )Åm   n   )n   /Äõí*m   ÄB  $  ÄB5  $  îÅm   î/Äõím   ÄB5  $  îÅm   î/Äõí4m'   8ğ   Bx  ÄÈ$ ÆõíÄB€  $  îÅm   î/o)æÌJbbbbg5:6!&	D5 D&D& 5?]III?:6b?EĞ]S65¹TNé²S<5		B  S¾  ‚  Ô   ê  À  &  Ë·ÌÈÓë¤ì>ÓB)  È$ ÔB)  ÈÔë$ ¯ÍÇB¡  ÉB9   ¿$ B¢  ¹Á $ $ ”î¾ÇB]   Ã% æ±+€£0B  :Æ  ‚ @Ô   È  ÓBş  Á Á3$ B7  Â$ ÏB7  Â$ Ì8œ   B,  &  ·ÈR'  (æ¹{?.{1,2}T #      õÿÿÿ             
+ 
+B    ¸  8a  Ó¿# æº B   À  ê  ‚ÓßB)  Ôßë$ ¯(æ» C  ¨ @8ğ   AÏ  ì8ğ   Bñ   Â $ )æÂ? 
+"C    ”Ê   Ì  Î  Ğ  Ò  ¶  ¦  ¨ 8ğ   Bõ   ª  $ Ë8ğ   Bõ   «  $ Ì8ğ   Bõ   Ú  $ ÍÇB	  ¬  $ ÎÈB÷   ß$ ÅÊB­  Ä$ ÊB®  ÇA¯  AB   $ ÉBÛ  $  ÆBÜ  $  ÆB°  Ê$ )æÄbbcN??m05:C’   Î  8&  B²  Ó% æÕC” Î  Ø   â ì’Xf  ¿(ñËf ÇáÓñòÇ(æÙ&0C–  	Î  ‚’Xf  àÓñ# æßC˜  ?Î  â 0ä a a  8&  B²  Ó$ Ë·Ìb  Bj   b $ B³  $  ·­ìb ’c îİb (æã!N…+Cš ¡è  ê  ì 0î0Ü ˜[â m~   a  ßÔñËÓB=  Ôë$ ÓBj   »$ BV  b  $ b  ¾¦ì4a f b  ¸ñÌb B¸  Ô$ ÓBj   ¿$ B¹  b $ îÓBj   ¿$ B¸  Ô$ )Ím   8ì   Bí   º  ÉA6   $ )/æì+@r55Dvn+€Cœ  ú  îø”Yf  f ğáÓñ·¶" )æ‚	NA ¾ö  ø  öÿÿÿÿ ø ú 0ü0ş0€0â a a  ÓËÔôì·ÜÌa a a ÓëÍ8Á  BÂ  ÓÃ  $ ÎÔìÔîf  ¿ñÅb B=  b $ b Bj   »$ B=  b $ b ¾¦ì7a f  b ¸ñÅb B¸  Ó$ b Bj   ¿$ B¹  b $ îb Bj   ¿$ B¸  Ó$ b (æ†	…gIN{5:D€wC   Qè  ˆ 0a  ÓBj   »$ BÅ  $  Ëb  ¾¦ìÓBj   ¿$ BÆ  $  Be  b  % ÓBj   ¿$ Be  b  % æ—	b&šC¢  L  `     ü m'   8«   Ô! ÏB  ·$ ÓB>  Ç$ 
+p(Ìm!   8ì   Bí   Ğ  ÈA3   $ 	p(/æŸ		5;:&…C¤  :’  äÓBV  ·$ ÓBj   »$ BV  ·$ ÓBj   ¿$ BV  ·$ f  Óñ)æ¬	:glC¦  q  `  ”   –  ê  ü	 mL   ÓBÌ  Ô$ Ï—ì8ì   Bí   Í  $ 	p(8«   Ç! Ì·ÍÉÈë¤ìÈÉG·­ì	p(”îí
+p(Îm!   8ì   Bí   Ğ  ÊA3   $ 	p(/æ³	6b	;+&&…C°  0’  ¨cªdÓBj   ß$ BÎ  $  Lu  ÓBj   à$ BÎ  $  Lq  (æĞ	C²  (’  ê	  â	  ¨cªdÓBj   ß$ BÏ  Ô$ ÓBj   à$ BÏ  Õ$ )æÔ	gcC´  0’  ¬e®fÓBj   ß$ BÎ  $  LĞ  ÓBj   à$ BÎ  $  LÑ  (æÚ	C¶  :’     ¢  ¬e®fÓBj   ÓBj   ß$ BÏ  Ô$ $ ÓBj   ÓBj   à$ BÏ  Õ$ $ )æŞ	”C¸   ’  ¤  ÓBj   ¿	$ Bj   º$ BÓ  Ô$ )æã	”Cø   )¨   „†’XöŠô‰f  ğËf ÇáÕ  ñò¸®ìf A  æ)f Aa  æ)æÒS0	1Cğ
+   ¬  ®  8    B  Ó8    BØ  ¹Ô$ œ% æıC  ¾²  ´   ô  ¶ ¾ ê ¸ º ğ
+Èa a a a ÓBú  Ş  $ —ì	Ş  Ó×ß  ËÓB  ¸$ Û8G   ¬í
+Ó˜J   ­ì	(·ÌÓB_   Ã$ Ía ·Îb b ë¤ì7a ÇB]  b b G$ Åb Çë›c b b c b ’c îÁb À Åßb b Ÿ¿òÅb b & (æ?X,!:r:]]:?60EC   ’ô  º  ¸ ´   À ¶ ² a a a a a  ÓÛBÅ  $  ËÓBj   »$ BÅ  $  Ìß  Íb À ›b  Î&  Åb ·¦ì/b Bá  Éb ÉëG$ 8    B  b Éëœ$ c îÌb B]   Ã$ Åb B9   %  æ—N5b!?&g{ICö
+   Ä  Ó·¦ì	ÓAB ¤(æ§Cø
+     ¼®âÀª$€ßğäf f ğñ)æ«+Cú
+    	 ¬%€f  f ğñ)æ±+Cü
+    P V¾nÀoßB7  f $ ßB7  f $ ßB8  f ßB5  ã  $ $ ßB8  f ßB5  ä  $ $ )æµDDŠ…B      Ì5f  #  æ½B       ËÇB¢  $  Bj   ¿($ BÆ  %  æÀC€  3´  Ü=ş
+Ïf  f B¢  $  Bj   ¿X$ BÆ  $  ÓAå  ì	ÓAå  îÓò)æÅıC‚ >ê	  â	  Ì   ’  â Ú<¿Ëf  ÀÈ ñÌf È¹òÈBj   Ç$ BV  Ó$ ÈBj   Ç»$ BV  Ô$ È(æÉ,'grC„     V¼mòˆßB9  f á$ )æÕDC†  ÂÎ   ŠÕŞ	şV¼mòˆœ]„Ò¨£ª¤¬¥®¦°§²¨´©¶ª¸«mB   áB>  f $ ÏªíÇAk  ^ Ak  «íÇ¼ªì^ ğî
+Ç_ ^ ğîm   ^ ğ8è  Â Àôòî/^ Ar  _ ^ As  _ ^ Ap  _	 ^ Aq  _
+ ^ An  _ ^ Aw  _ ^ A{  _ ^ A|  _ ^ A~  _ )æÙ?! &:::::::::B   BÎ   Š  Ş	  ¼ò œ áB>  f $ ÏªíÇAk  ^ Ak  «íÇ¼ªì^ é  ñ8è  Â ÀĞò)ææ?5'B      Š  Ş	 ßğ	ä)æêCˆ   "Ô   È3ş
+Ïf  f B£  $  ñÏBj   ¿$ BÅ  %  æÿNCŠ    @Ö   Ø  8)  8€   B.  Å  $ 0  0  0  & ! Ë8U  Az  ÌÇÈ¿	ò)æ„î:CŒ   "Ú  Ü  8    B  8    B  $  ÔÓŸ¸›Ó% æŠC /¨  Ş  ’   â òHôI”Yúêøf  ÀñËf Çñf ÇâÓñòf ÇâÔñòf f ğÇ·¸¸" )æ+!00IC    U V¾nÀoßB3  f $ —ìßB8  f ßB5  ã  $ $ ßB3  f $ —ìßB8  f ßB5  ä  $ $ )æ–N‹NŒB      ’Ùß«ìßBğ  $  ã)æ²5B     ˜Ü–ÛÆ2àì)8Z  B[  f Â T©  $ ä)æ¹ 
++B  È  ˜  8è  Â Àôò)æ¼!B      ˜  ã)æ½B    ' ˜Ü¢áœŞßšİ¤â”Ú‚^ ì)8Z  B[  f Â M©  L©  $ _ )æÄ! P?!C iÈ  Î   ˜  ¢ œ  š ¤ Ó·GBe  $  Ëàì$Çñ  ªì8è  Â Àôò	ä8è  ÂÀˆò^ ì2Çò  ªì
+_ 8è  ÂÀ,ò)Çó  ªì
+å8è  ÂÀ,ò)æÇA0& 
+0 
+&0  B      ˜  ã)æÍB      ¢ 
+ã)æÑB      œ  š ßì
+ä	å)æÛB      š  œ ßì
+ä	å)æäB    ' ßˆÔ˜Ü à¾®œ]’ÙÜ=^ ì)8Z  B[  f Â M©  L©  $ _ )æò! P?!C  ‚È  è   ê    ˆ ˜   ¾ œ Ó¸GBj   ¿$ B³  $  ¸ªjé   Ó¸GBj   »$ BÅ  $  ·ªjÎ   Ó¸GBj   ¿$ BÅ  $  ËßìNàğĞAB ªì@B å·æî#È@B ªìAB å¸æîâ¸ªìÈ¸åîÈ¸Ÿå^ —ì^ ö  ñ
+_ îÇ@B §ìáÇ«ìÇå^ ö  ñá«ìFÓ¸GBj   ¿$ BÓ  ¸$ Ó¸GBj   ¿$ BÓ  ¸$ Ó¸GBj   ¿$ BV  á$ )æõ  7q0!0! !6I7vvxB        ËÇB§  $  ÇB¥  $  ÇB¦  $  )æ 550C¨     òˆ¦ãßAl  ìàB¨  $  )àB¤  $  )æ§+5	6C¬   ) òˆªå–ßAo  ì!à—ì
+ä8Z  B[  f Â Ta  $ )æ´? 
++B   î  ò  ßAo  ìÓBc  ¸$ )æ¸+;C°   
+-  _˜”Yœ]öŠ¢ š ®ç
+_	 8Z  Bc  f 8«  Â 
+   ,  & ! $ )æÆ (lC 	§ğ  ò `ô`ö`   ˜” œ ö ¢š a a a  Á Ë8Z  B[  f ÂTa  $ Ìf Óñf ÓBj   ÀÀ $ BÆ  $  8&  B²  ü  $ ¸óÍf b ÓBj   ¿`$ ò8Z  B[  ÓBj   ¿`$ BÆ  $  Bj   ¿$ BÆ  $  ÂT©  $ )æÈ0 +!àb 0+0B   Ä  ò 	   ô	àÓñg  f Bğ  $  )æË+:B   ,È  ö	˜” ò 	œ ö f  Bı  Ó¸G$ ìf áf ññ^ ^ A¬  f ñ)æÕS5YC´   R’   Ê  Ê4â Ú<Ü=mH   f  8{  ·ññBş  $  ·«ì,f ¿2ñËf ÇºòÌf f  ÈñBj   ¿X$ BÆ  $  Çò)m   )/æãv&&•5C   È  ²éÓ¸GBş  $  ¹ªì·ã)æîNC¶  ş  @òˆ²é´êßAm  —ì)8ª  Â ¿2òË)æõ5 !B      ò  ² ´ ş ßAm  ìà¸è¾¦ìáğ)8   âñ)æ÷+	,Cº   ) òˆ¸ìÚ<à—ì%ßAu  ì
+ä8Z  B[  f Â T©  $ )æ‰? +B   #È  ò  Ó¸GBş  $  ¼ªìßAu  ìÓ¸s8{  ½ñI)æN+<C¼   	. òˆÜ=8Z  Bc  f 8«  Â 
+   ,  ,  & ! $ )æš 6†C  q‚  „  †   ˆ  ò  ÜÔBj   »$ BÅ  $  ËÔBj   ¿$ B³  $  ÌÇ¸ªìßAt  ìÈ—ì9f ÓÔò)f ÓÔò)Ç·ªìßAz  ìÈ—ìf ÓÔò)f ÓÔò)f ÓÔò)æ›bh+'	'+'	'	'C¾   # òˆÜ=ßAv  ì8Z  B[  f Â T©  $ )æ½+ +B   VÈ  ’ 0Š0a a  Ó¸GËb  Bj   ¿$ B  $  Ìb ¼¬ì/b  Bj   ¿$ B=  ·$ b  Bj   ¿	$ BÓ  ¼$ )æÀ!r&vwCÀ   L òˆŞ>8Z  Bc  f 8«  Â 
+   ,  ,  ,  ,  ,  0  0  0  & ! $ )æÏ  8C  	 6‚  „      ’  ”  –  ˜  ò  ŞßAy  ìf ÓÔÕÖ[ [ ¸[ " )f ÓÔÕÖ[ [ [ [ " )æĞ+lwCÂ   * â à?Ø;îFòˆ‚Pm    8Z  B[  f Â Ta  $ )m   )/æÛ	 +,B  î  â àØîò ^ Ax  ì8è  Â Àèò)æŞ5 'B    !’   â àØîf  ÀÈ ñËf Ç¸·óf f BÆ  $  Çò)æà++SCÄ ›š  ô   ’  â œ ”Yâ@Ø;îFÓBú  Ş  $ ìÓÛî	Ş  ÓÛf  ¿
+ñËf  ÀÈ ñÌ8)  àBj     š $ ,  ,  & ! Çñ8)  àBj   ¬ š $ ,  ,  ,  & ! ÇáÓñòËf ÈÇ·óf f BÆ  $  Èò)æï•&,Æî,SCÎ   h’   Ê  â Ú<ŒÖÊõÜ=Ê4f  ¿2ñËf Ç¿òÌÇBj   ¿$$ BV  á½¿
+ò$ âÀh§ì·æâ¿æÇBj   ¿($ BV  â$ f f ÈñBj   ¿X$ BÆ  $  Çò)æƒ&+0lCĞ   1 Ê4Î÷òˆÆóÈôÌöáA}  ìâ—ì
+æ8ª  Â À4^ ¿
+›Ÿò_ )8   ^ ñ	æ)æ
+? S	5B      Ê Î f  8{  ·ññBş  $  ·«ìàğ)æ’vCÔ   O òˆÈ3ş
+Ï€Ğ‚ÑäAÒù^ —ìIßA  ìA8ì   Bí     $ 
+_ 8Z  Bc  f 8«  Â 2  ,  & ! $ )æ¢Ib .rC  ’‚     Ô  Ì  ê	  â	  ò  Èş
+€ ‚ äßA  j„   a 8a  ÓBj   À$ BÎ  $  ñËf f B£  $  ñÌb Bş  $  ·ªì)¿0ÍÇ¿	¦ì8b Bj   É$ BÅ  $  Îb Bj   É»$ BÅ  $  Åâ^ ÊÄòñ·(f Ó# æ¦IŠTO	!l|7	CÖ    B òˆœ ßA€  ìàBj   • $ B¸    $ )àBj   • $ B¸    $ )æÃ+	CØ    Î
+¶â æBš\Ğ
+·Ø;îF8ª  Â ¿xò)æÎ B    ;’   Î
+  âæš Ğ
+ Øîßì8f ÀÈ ñËf ÇñâÇBj   À $ ^ à  òf f BÆ  $  Çò)æÏ,"|YCŞ   
+X òˆĞ7ÚıÜşá—ìTßAƒ  «ì7
+å8Z  Bc  f 8«  Â 0  ,  0  0  & ! $ æ)	åâ«ìâBğ  $  æ)æâ5 
+£	5 C   ğ  ¤  ¦  ò  ĞÔ¸ªìßAƒ  «ìßAƒ  (f ÓÔÕ# ææYCà rš  ¨   ’  ª  ò
+Éâ èCØ;îFêDÓBú  Ş  $ ìÓÛî	Ş  ÓÛßÓñËf ÀÈ ñÌf ÈÇ·GÇ¸G··" f f BÆ  $  Èòf ÀÈ ñÍf ÉÇ·GÇ¸G·" f f BÆ  $  Éò)æù	•+SY+NTCâ    òˆâ@8Z  B[  f Â M©  L©  $ )æŠ 
+?C   È  ò  ßA  ìÓ¹s8{  ¸ñI)æŒ+;B  qÈ  „   ¬  ä‚Ò
+¸Ô
+¹Ó¸GË8)  ÇBÆ  $  Bj   ¿($ BÆ  $  0  ,  & ! ĞÇñÀ-^ªì3ßì0àì-ÇBj   À¤ $ BV  á$ ÇBj   À¨ $ BV  ¸$ )æ™ùNqrCê   ) òˆè„ìEà—ì%ßA„  ì
+ä8Z  B[  f Â T©  $ )æª? +B   È  ò  ßA„  ìÓ¸s8{  ºñIÓ¹s8{  ¼ñI)æ®+:<Cì Bp  ®  ’   °  ²  â ”Yüú¤af  ÀôñËàÃñÌà  ñÍÔ«ìàÔñÍf ÇÉ··ÈÈÈ" f ÇàÓñò^ Èñ^ ÉñÇ(æ½
+++I1!"Cî  
+p  ì†ßÓ  # æÎCğ €p  ’   °  ²  ¸  º  â ”Yüú²h¤!¤af  ÀôñËà  ñÌà  ñÍà   ñÎà!  ñÅf ÇÉ··ÈÈÈ" f ÇàÓñò^ f ÇÊ·óÀ'À'ó^ f ÇÄ·óÀ'À'ó^ Èñ^ Éñ^ Êñ^ ÄñÇ(æÒ++,+1I1]c!!!'Aò ²’  Ä  ê	  â	  ú  Æ  È  ®  ’ÿÿÿÿ Ä ê	 â	 ú Æ È ® °   ² 	 Ê 
+ ”Yğ¤a’´)ö
+’Xa a a a a a a a  ÓËÔÌÕÍÖÎ[ Å[ ôì¸] Å[ ôì
+&  ] Å[ ôì
+'  ] Åß[ ñÅß[ ñÅ	m   f ÄÄ	òÅ
+îm   áÄñáÄ	ñp(/áÄñáÄ	ñf Ó¸ò8)  f 
+   ,  ,  & ! ÓÄ
+òÓBj   ¿ $ BÏ  Õ$ ÓBj   ¿$$ BÏ  Ö$ ÓBj   ¿$ BÏ  [ $ ÓBj   ¿$ BÏ  [ $ f ÔÓòf Ó^ (  ñß[ ñó)æè W&'50&b,llvv'bAô	 p’  Ä  ê	  â	  ú  Æ  È  ®  ’ÿÿÿÿ Ä ê	 â	 ú Æ È ® ò‰¤¢a a a a a a a a  ÓËÔÌÕÍÖÎ[ Å[ ôì¸] Å[ ôì
+&  ] Å[ ôì
+'  ] ÅßÓÔÕÖ[ [ [ [ " àÓñ)æ‡ WlCö ,Ò  °   ²  Ô  ”Y¤!ˆ¤aß+  ñËß,  ñÌÍf ÓÇ·óÍf ÉÈ¸óâÇñâÈñÉ(æŒ+,+,Cø ,Ò  °   ²  Ô  ”Y¤!ˆ¤aß+  ñËß-  ñÌÍf ÓÇ·óÍf ÉÈ¸óâÇñâÈñÉ(æ›+,+,Cú ,Ò  °   ²  Ô  ”Y¤!ˆ¤aß+  ñËß`  ñÌÍf ÓÇ·óÍf ÉÈ¸óâÇñâÈñÉ(æª+,+,Cü		 âÔ  Ä  ê	  â	  ú  Ü  Æ  Ş  à  °   ²  ¸  Ê  ”Yğô	ˆò²h¶j´i¤¢ö
+¤aß  ñË[ ¹ªì
+ß1  ñîß2  ñÌß[ ñÍ[ «ìß[ ñÌf ÇÈòÎf Óñ8)  ÓBÆ  $  Bj   À`$ BÆ  $  
+   ,  ,  2  & ! ÓÊ¸óf ÓÉ¸óf Ê[ ò^ ÓÕÖó^ Ó[ ^ ÓñAĞ  [ ^ ÓñAÑ  ó[ ì^ Óñf	 ÔÓò^
+ Çñ^
+ Èñ^
+ ÉñÊ(æ¹+{"&#'"ß,+1+®"'!!"Cş 
+ Ô  Ä  ê	  â	  ú  Ü  Æ  üßÓÔÕÖ[ [ [ 
+#	 æŞC€ıÄ  ê	  â	  æ  è  ê  ¦  ì @°   ²  î  ğ ò ô ö ø ú ’ @ü	pş 
+ ”Yğ’XöJâ øKúLüM²hö
+şNâ
+Á¤aa
+ a a a a a a a ß  ñËß@  ñÌf ÇÈòÍáA  ñÎáB  ñÅáC  ñÅf b b òÅf b b òÅf b b òÅ[ ì8{  ·ñc f ÀPñÅ	f Ä	b b b ·" f Ä	ºÖóf Ä	ß[ ñò8)  Ä	BÆ  $  Bj   À $ BÆ  $  
+   ,  & ! Å
+Ä	Bj   ¿ $ BÏ  À6$ Ä	Bj   ¿$$ BÏ  ÀÈ $ ^ Ä	ÔÕóf	 ÓÄ	ò[ «ìÄ	Bj   ÀÀ $ BV  [ $ 8Z  B[  f
+ Â T©  $ Å^ B¡  Ä$ ^ Çñ^ ÈñÄ	(æâ {++'+00??@A1b0@ËD{|0,&‚ 
++K!"B  È  ˆ   ’	ìü
+ßBj   ÀÀ $ BÅ  $  ËàÇñf ßñ)æ…lC‚  	P$È
+Š   ’  è ¼®ì†È
+³ú	ŒüüÍê	„â	€òˆü	şÎì	…ş	€	Ïî	†€
+‚	Ğğ	‡‚
+„	Ñä	„
+‘†	Ò†
+’ˆ	Óˆ
+“Š	ÔŒ	Õæ	‚	Ö	×’	ØŠ
+”ş”	ÙŒ
+•–	Ú
+–˜	Û
+—š	Ü’
+˜œ	İ”
+™	Ş 	ß–
+š¢	à˜
+›¤	áš
+œ¦	â¨	ãœ
+ª	ä¬	å
+®	æ 
+Ÿ°	ç¢
+ ²	è´	é¶	ê¸	ëº	ì¼	íò‰ğÇÆ
+²ò	ˆôÉè	ƒô	‰öÊÌµö‹êøÚ	üm,  ßğÁ ËàF  ñÌ¸å^ ^ È^ ^ G  ^ Al  ì·î¸Á" æ^ ^
+ È^ ^ H  ^ Am  ì·î¸Á" _	 ^ ^ È^ ^ I  ^ An  ì·î¸Á" _ ^ ^ È^ ^ J  ^ Ao  ì·î¸Á" _ ^ ^ È^ ^ K  ^ Ap  ì·î¸Á" _ ^ ^ È^ ^ L  ^ Aq  ì·î¸Á" _ ^ ^ È^ ^ M  ^ Ar  ì·î¸Á" _ ^ ^ È^ ^ N  ^ As  ì·î¸Á" _ ^ ^ È^ ^ O  ¸Á	" ^ ^ È^ ^ P  ¸Á
+" ^ ^ È^ ^ Q  ¸Á" ^ ^ È^ ^ R  ¸Á" ^! ^" È^ ^ S  ^ At  ì·î¸Á" _  ^! ^$ È^ ^ T  ^ Au  ì·î¸Á" _# ^! ^& È^ ^ U  ^ Av  ì·î¸Á" _% ^! ^( È^ ^ V  ^ Aw  ì·î¸Á" _' ^! ^* È^ ^ W  ^ Ax  ì·î¸Á" _) ^! ^, È^ ^ X  ^ Ay  ì·î¸Á" _+ ^! ^- È^ ^ Y  ¸Á" ^! ^/ È^ ^ Z  ^ Az  ì·î¸Á" _. ^! ^1 È^ ^ [  ^ A{  ì·î¸Á" _0 ^! ^3 È^ ^ \  ^ A|  ì·î¸Á" _2 ^! ^4 È^ ^ >  ¸Á" ^! ^6 È^ ^ ]  ^ A}  ì·î¸Á" _5 ^! ^7 È^ ^ ^  ¸Á" ^! ^9 È^ ^ _  ^ A~  ì·î¸Á" _8 ^! ^; È^ ^ `  ^ A  ì·î¸Á" _: ^! ^= È^ ^ a  ^ A€  ì·î¸Á" _< ^! ^> È^ ^ ;  ¸Á" ^! ^? È^ ^ b  ¸Á" ^! ^@ È^ ^ c  ¸Á" ^! ^A È^ ^ d  ¸Á " ^! ^B È^ ^ G  ¸Á!" ^C ^D È¿Ø^ ¿(e  áÆ  ^E Ç" ^ ^G ÈÀÜ ^H ¿f  ·Á"" _F ^ ^J ÈÀ$ÿ^H ¿g  ¸Á#" _I ^L Èñ_K fM fN ğÈ¸¸¸" ^O ¸_O îÍm   8ì   Bí   É$ î/È(æ•5,ÆĞĞÑĞĞĞÑ……… ĞĞĞÑĞĞ…ÑĞĞ… )
+…ĞĞÑ………… ½ŸŸ,N+      ø?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?C„  
+ÍŠ   ’  è êÄ¼®ì†öŠò‰â ê	„â	€üà¿úêøÚ	üm±   ¸ãàğÁ ËáâA  ñÌ^ f ÀñÈ^ ¿Ÿ^ ¿Ÿh  ¹&  '  " ^ f ÀñÈ^ ¿Ÿ^ ¿i  ¹&  '  " ^ f ÀñÈ^ ÀÜ ^ ¿Zj  ·Á" ^
+ Èñ_	 f f ğÈ¸¸¸" ^ ¸_ îÍm   8ì   Bí   É$ î/È(æß1ÚÛ¹,O+      ø?333333Ó?C†
+$
+®Ö  Š   ’  è Ì
+µÖ
+ºòˆ„ÒêÄ¼®ì†öŠò‰¨
+£ê	„â	€ª
+¤¬
+¥®
+¦ü°
+§²
+¨ôŠ´
+©¶
+ª¸
+«òÈæ	‚Ê
+´ö	ŠşøËè	ƒø	‹úÌŞ¾øŒêøÚ	üm  ¸ãÓì	äá
+C‚  âğ¸_ ^ ğÁ Ë^ Óì^ Aã  î	^ Aå  ñÌ^ ^	 È^
+ ¿P^ ¿Ÿ^ A!  ¹&  '  " ^ ^ È^
+ ¿<^ ¿^ A"  Á&  '  " ^ ^ È^
+ ¿
+Ÿ^ ¿ÃÁ  l  " ^ ^ È^
+ À¸^ ¿nÃÁ  m  " ^ ^ È^
+ À^ ¿}n  ¸Á" ^ ^ È^
+ ¿}^ ¿}o  ¸Á" ^ ^ È^
+ ¿
+Ÿ^ ¿ÃÁ  p  " ^ ^ È^
+ ¿P^ ¿Ÿq  ¹&  '  " ^ ^ È^
+ ¿<^ ¿r  Á&  '  " ^ ^ È¿Ø^ ¿(e  ßÆ  ^ Ç" ^ ^ ÈÀÜ ^ ¿f  ·Á" _ ^ ^ ÈÀ$ÿ^ ¿g  ¸Á	" _ ^  Èñ_ f! f" ğÈ¸¸¸" ^# ¸_# îÍm   8ì   Bí   É$ î/È(æø&†ÕÚ·¼¨¤·ÆÌ½ŸŸ,O+      ø?{®Gázø?      ø?333333ó?Ãõ(\ÂÅ?Ãõ(\ÂÅ?      ø?      ø?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Cˆ  ¨’   æ  è  ê  Ú	üì†ò‰¾	îê	„â	€öŠüÀ	ï¦
+¢Â	ğòˆÄ	ñĞ·ö‹êøß¸ãàQ  ñËÀ8ÿÌÀÃ Í¿ØÎáâÇ^ ¿^ ¿Ÿ^ Aß  Á " ^ ^ ÇÈÊ^ A×  ¸Á" ^ ^
+ ÇÈÉÊ^ A  ^ A  ì·î¸Á" _	 ^ ^ ÇÈÉ¹›Ê^ A  ¸Á" ^ Çñ_ f f ğÇ¸¸¸" )æ£,•|Ñ,I      ø?ìQ¸…ë±?ìQ¸…ë±?ìQ¸…ë±?CŠ  		L’   à
+ÀÚ	üğˆöŠ€üÆ	òêøà¸äáâAÙ  ñË^ Ç·¿°ğI î  ·Â " ^ ^ Ç·¿
+âA×  ¸Á" f f ğÇ¸¸¸" )æº1wIB   „  à
+  Óã)æ¿ ìQ¸…ë±?CŒ   šª   æ 0è0ê0ì0ê î0ğ0ê	0â		0ò
+0Ú	üì†üìÅöŠ¼
+­òˆÒ¸ö‹êøa a a a ß¸ãàO  ñËÀ8ÿÌÀÃ Í¿¡Î¿FÅáâÇb b ^ A   ¸·" a ·Åb ^ ë¤j¶   a
+ a	 a a a b ¹¤ìb ¸îb ¹ŸºÅb ¹¤ì·î8    B  b ¹Ÿºœ$ ¸Åb b b ›Åb b b ›Å	^ Aƒ  ^ b GAz  ¬ì·î¸Å
+á^ b GA{  Çb b	 ^ b GA}  b
+ ·" b ’c ïCÿ^ Çñ_ f	 f
+ ğÇ¸¸¸" )æÆ?,+'w­v­DD•Ë;+IC  	‹’   Ú	üì†ü¾
+®ê	„â	€ _–Zì	…î	†ğ	‡ä	æ	‚Ô¹ö‹êøß¸ãàY  ñËáâ·GA{  Ç^ ^ ^ ^ â·GA†  ññ¸Á " áâ¸GA{  Ç^ ^ ^ ^ â¸GA†  ññ¸Á" áâ¹GA{  Ç^	 ^ ^ ^ â¹GA†  ññ¸Á" áâºGA{  Ç^
+ ^ ^ ^ âºGA†  ññ¸Á" áâ»GA{  Ç^ ^ ^ ^ â»GA†  ññ¸Á" áâ¼GA{  Ç^ ^ ^ ^ â¼GA†  ññ¸Á" áâ½GA{  Ç^	 ^ ^ ^ â½GA†  ññ¸Á" áâ¾GA{  Ç^
+ ^ ^ ^ â¾GA†  ññ¸Á" áâ¿GA{  Ç^ ^ ^ ^ â¿GA†  ññ¸Á" áâ¿	GA{  Ç^ ^ ^ ^ â¿	GA†  ññ¸Á	" áâ¿
+GA{  Ç^	 ^ ^ ^ â¿
+GA†  ññ¸Á
+" áâ¿GA{  Ç^
+ ^ ^ ^ â¿GA†  ññ¸Á" ^ Çñ_ f f ğÇ¸¸¸" )æŞ,ËËËÌËËËÌÕÕÕÖ,IÃõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?Ãõ(\ÂÅ?C  {’   Ú	üì†üÈ	óê	„â	€öŠ¤
+¡Ê	ôì	…Î
+¶Öºö‹êøß¸ãà^  ñËáâÇ^ ¿d^ ¿<^ AÆ  ¸Á " á^ Ç^	 ÀÈ ^ ¿<^
+ ì^ AÀ  î	^ A¾  ^
+ ì¸î·Á" _ ^ Çñ_ f f ğÇ¸¸¸" )æ÷	,š :,IffffffÖ?ffffffÖ?C’  
+ €ª   æ 0è0ê0ì0ê î0ğ0ê	0â		0ò
+0Ú	üì†üîÆöŠÀ
+¯Ø»ö‹êøa a a a ß¸ãàb  ñËÀ8ÿÌÀÃ Í¿¡Î¿FÅáâÇb b ^ A   ¸·" a ·Åb ^ ë¤jœ   a
+ a	 a a a b ¹¤ìb ¸îb ¹ŸºÅb ¹¤ì·î8    B  b ¹Ÿºœ$ ¸Åb b b ›Åb b b ›Å	¸Å
+á^ b GA{  Çb b	 ^ b GA}  b
+ ·" b ’c ï]ÿ^ Çñ_ f f	 ğÇ¸¸¸" )æ…?,+'w­v­DDË;+IC”  å’   Š  Ú	üì†ò‰Ì	õê	„â	€öŠüÎ	öĞ	÷Ò	øÔ	ùì	…Ö	úî	†Ú¼ö‹êøß¸ãàc  ñËÁ ÌáâÇ^ ¿Ÿ^ ¿#Ÿ^ A  È" ^ ^ Ç^ ¿^ ¿^ A  ¸Á" á^	 Ç^ ¿Ÿ^ ¿K^ A
+  È" ^ ^
+ Ç^ ¿
+^ À‚ z  ¸Á" ^ ^ Ç^ ¿^ À‚ {  ¸Á" ^ ^ Ç^ ¿^ À‚ |  ¸Á" ^ Çñ_ f f ğÇ¸¸¸" )æœ,®™¨¨©,I      ø?š™™™™™¹?¸…ëQ¸¾?¸…ëQ¸¾?¸…ëQ¸¾?C–  D’   Š  Ú	üì†üº
+¬ê	„â	€öŠÜ½ö‹êøß¸ãàd  ñËÁ ÌáâÇ^ ¿<^ ¿
+^ A  ¸Á" ^ Çñ_ f	 f
+ ğÇ¸¸¸" )æ°,š,I      ø?
+×£p=
+×?C˜  	ÿ’   Š  ú @ä
+Âæ
+Ãè
+ÄÚ	üê
+Åî‡öŠò‰â üòˆ€êøâ¸æ
+_ ^ ^ A  ñËÁ Ì^ f ÀñÇ¿ìÀeÿ~  º" ^ f ÀñÇ¿â¿¿  º" ^ f ÀñÇ¿ì¿€  º" ^	 f ÀñÇ·À    ¸Á‚  " Í^
+ A…  «ìvÉBj   ¿	$ Bj   ·$ BÓ  ^
+ A…  ·G$ ÉBj   ¿	$ Bj   ¸$ BÓ  ^
+ A…  ¸G$ ÉBj   ¿	$ Bj   ¹$ BÓ  ^
+ A…  ¹G$ ^ Ç·¿¦Àÿ Ã¸^
+ A…  ·G±ìÀÿ Â" ^ Ç··Àÿ Ã¸^
+ A…  ¸G±ìÀÿ Â" ^ Ç·¿ZÀÿ Ã¸^
+ A…  ¹G±ìÀÿ Â" f f ğÇ¸¸¸" )æ¾E…€¤?ÆÆÈ›!–!›"I      ø?      à?B   („  ä
+  úÓãÓ·¦ì àBj   ¿	$ Bj   ·$ BÓ  Ó$ )æÒ·B   („  æ
+ úÓãÓ·¦ì àBj   ¿	$ Bj   ¸$ BÓ  Ó$ )æÖ·B   („  è
+ úÓãÓ·¦ì àBj   ¿	$ Bj   ¹$ BÓ  Ó$ )æÚ·Cš		 «Ş  †  ˆ  ’   Ø	ûÚ	ü„Q†Râ ¶*ê¸+Ü	ıÕãà¸äf B¸  Ó$ f B¸  Ô$ f ÀñË8)  f ,  ,  & ! Çñ8)  f ,  ,  ,  0  0  0  & ! f BÆ  $  Ç¸·¸" f B¸  …  $ f B¸  †  $ 
+_ )æâDE, @XXCœ	
+ ÉŞ  ú  †  ˆ  ’   Ø	ûÚ	üˆSŠTŒUâ º,ê¸+Ü	ıÖãà¸äf B¸  Ó$ f B¸  Ô$ f B¸  Õ$ f ÀñË8)  f ,  ,  & ! Çñ8)  f ,  ,  ,  0  0  0  & ! f BÆ  $  Ç¸·¸" f B¸  ‡  $ f B¸  ˆ  $ f B¸  ‰  $ 
+_	 )æòDDE+ @XXXC    ' äÁ²hß«ì"ßBj   ¿H$ BÓ  ·$ àßÀ'À'óã)æ†l5C   Óê	   â	  ú  Æ  °  ²  Ê    ¤¡äÁâ ”Yğ¤a´)²h¶jŠ²(’XŸ¼Ë·ÌàÍÁ Îáªj´   f Àñå^ &  ñÅ^ '  ñÅm   f ÄÄòÅîm   ^ Äñ^ Äñ	p(/^ Äñ^ Äñ8)  f 
+   ,  ,  & ! áÄò^ áÇÈó^	 áÊÊóf
+ f BÆ  $  áòf á^ (  ñ^ Éñóî^ ğ8è  Â¿dòá(æ++:;5!&&&'b,+,Yg"ÍÌÌÌÌÌô?B         ßğ)æ³C¤ Ô  ” 0°g¢¡²ha  ßÓñËàBD   Ób  $ áÓÀ'À'ó)æ¾I0C¦ :Ô  ” 0¢¡²hßBe   Ó$ ì.a  ßBC   Ó$ ËàÓb  Au  b  Aq  óßB	   Ó$ )æÅN;h;C¨   	,  È
+³¤¢üÍşÎ€	Ï‚	Ğ„	Ñ†	Òˆ	ÓŠ	ÔŒ	Õ	Ö	×’	Ø¦£”	Ù–	Ú˜	Ûš	Üœ	İ	Ş 	ß¢	à¤	á¦	â¨	ãª	ä¬	å®	æ°	ç²	è´	é¶	ê¸	ëº	ì¼	íÆ
+²ğÇ’X”Yòò	ˆô	‰ß¸ªj¨   àáñàâñà^ ñà^ ñà^ ñà^ ñà^ ñà^	 ñà^
+ ñà^ ñà^ ñà^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñß¹ªj”   à^ ñà^ ñà^ ñà^ ñà^ ñà^ ñà^ ñà^ ñà^ ñà^ ñà^ ñà^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^  ñ^ ^! ñ^ ^" ñ^ ^# ñß^$ ¤ì/ßãf% ^& ^' (  ñ^( e  B^   ßÆ  ^$ $ ñóf) ^* ß^$ ¬ì¸î·òf) ^+ ß¸¦ì·î¸ò)æĞ5+!!!!!!!!!"+++++++++++-+!!!!!!!!!!!"++++++++-&ÜbTCª   	, › È
+³¦£üÍşÎ€	Ï‚	Ğ„	Ñ†	Òˆ	ÓŠ	ÔŒ	Õ	Ö	×’	Ø¤¢”	Ù–	Ú˜	Ûš	Üœ	İ	Ş 	ß¢	à¤	á¦	â¨	ãª	ä¬	å®	æ°	ç²	è´	é¶	ê¸	ëº	ì¼	íğÇ’X”YÆ
+²òô	‰ò	ˆß¹ªj¨   àáñàâñà^ ñà^ ñà^ ñà^ ñà^ ñà^	 ñà^
+ ñà^ ñà^ ñà^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñßºªj”   à^ ñà^ ñà^ ñà^ ñà^ ñà^ ñà^ ñà^ ñà^ ñà^ ñà^ ñà^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^ ñ^ ^  ñ^ ^! ñ^ ^" ñ^ ^# ñß¸¦ì/ßãf$ ^% ^& (  ñ^' e  B^   ßÆ  ^( $ ñóf) ^* ß¸¦ì·î¸òf) ^+ ß^( ¤ì·î¸ò)æ5+!!!!!!!!!"+++++++++++-+!!!!!!!!!!!"++++++++-ÜX]C¬   	 ¨ Ì
+µ¶
+ª’X”Y¸
+«öŠÊ
+´òÈòö	Šø	‹ß¸ªì7f áâ(  ñ^ ‹  ñóf ^ â(  ñ^ ^ Aş  Aë  ñóß¹ªì7f áâ(  ñ^ Œ  ñóf ^ â(  ñ^ ^ Aş  Aí  ñóßºªì7f áâ(  ñ^   ñóf ^ â(  ñ^ ^ Aş  Aï  ñóß»ªì7f áâ(  ñ^   ñóf ^ â(  ñ^ ^ Aş  Añ  ñóß¼ªì7f áâ(  ñ^   ñóf ^ â(  ñ^ ^ Aş  Aó  ñóß½ªì7f áâ(  ñ^   ñóf ^ â(  ñ^ ^ Aş  Aõ  ñóß¾ªì7f áâ(  ñ^ ‘  ñóf ^ â(  ñ^ ^ Aş  A÷  ñóß¿ªì7f áâ(  ñ^ ’  ñóf ^ â(  ñ^ ^ Aş  Aù  ñóß¿	ªì7f áâ(  ñ^ “  ñóf ^ â(  ñ^ ^ Aş  Aû  ñóß¿
+ªì7f áâ(  ñ^ ”  ñóf ^ â(  ñ^ ^ Aş  Aı  ñóß^ ¤ì-ßãf ^ â(  ñ^ e  B^   ßÆ  ^ $ ñóf	 ^
+ ß^ ¬ì¸î·òf	 ^ ß¸¦ì·î¸ò)æÑ$q¤q¤q¤q¤q¤q¤q¤!q¤!q¤!q¤&ÒbTC®   	 § Ì
+µ¶
+ª’X”Y¸
+«öŠòÈÊ
+´òø	‹ö	Šß¹ªì7f áâ(  ñ^ •  ñóf ^ â(  ñ^ ^ Aş  Aé  ñóßºªì7f áâ(  ñ^ ‹  ñóf ^ â(  ñ^ ^ Aş  Aë  ñóß»ªì7f áâ(  ñ^ Œ  ñóf ^ â(  ñ^ ^ Aş  Aí  ñóß¼ªì7f áâ(  ñ^   ñóf ^ â(  ñ^ ^ Aş  Aï  ñóß½ªì7f áâ(  ñ^   ñóf ^ â(  ñ^ ^ Aş  Añ  ñóß¾ªì7f áâ(  ñ^   ñóf ^ â(  ñ^ ^ Aş  Aó  ñóß¿ªì7f áâ(  ñ^   ñóf ^ â(  ñ^ ^ Aş  Aõ  ñóß¿	ªì7f áâ(  ñ^ ‘  ñóf ^ â(  ñ^ ^ Aş  A÷  ñóß¿
+ªì7f áâ(  ñ^ ’  ñóf ^ â(  ñ^ ^ Aş  Aù  ñóß¿ªì7f áâ(  ñ^ “  ñóf ^ â(  ñ^ ^ Aş  Aû  ñóß¸¦ì-ßãf ^ â(  ñ^ e  B^   ßÆ  ^ $ ñóf	 ^
+ ß¸¦ì·î¸òf	 ^ ß^ ¤ì·î¸ò)æ„$q¤q¤q¤q¤q¤q¤!q¤!q¤!q¤!q¥ÒX]C¸   ´â   Ê  Ş	şæÂâ ô	ğ”Yˆ²h°¨²©¶j´ª¶«òˆŠ²(Çªj.  ßj(  
+äf ÀñËf Çñf ^   ñ^ ‚  ñòÌ8)  ÇBÆ  $  Bj   À`$ BÆ  $  
+   ,  ,  2  & ! ÇÈ¸óf Ç^   ñ¸ó^ Ç^ ^	 ó^
+ Ç^ ^ ó^ A…  «ìvÇBj   ¿	$ Bj   ·$ BÓ  ^ A…  ·G$ ÇBj   ¿	$ Bj   ¸$ BÓ  ^ A…  ¸G$ ÇBj   ¿	$ Bj   ¹$ BÓ  ^ A…  ¹G$ f f BÆ  $  ÇòÇ(Ç(æ¿I,!vß,T?@?ÆÆÈY	Cº    L âÀˆ”Y²h°¨²©¶j´ª¶«æÂ¸¬º­ßì?ßBj   ¿N$ BÓ  ¸$ f ßá  ñ¸óâß^ ^ ó^ ß^ ^ ó
+_	 )^
+ ğã^ ğ)æà
+lJ5?	A¼  6¬  ¬ÿÿÿÿ âÀ²hæÂÚ	üa  Óôì
+ÛËßì"ßBj   ¿N$ BÓ  ·$ àßÀ'À'ó	åÓì·æ)æï?l5A¾  ¬  ¬ÿÿÿÿ ¼®âÀa  Óôì
+ÛËßÓñä)æú?B     º­âÀÆ
+²¾¯à«ìá·ªìâğ8è  Â ¹ò)æÿ5B      º  ßğ)æ‚CÄ	¹Š#‚  ®  @èF° 0²§0´0–«0¶0¸°0º  ê 	 üÂ Â±À°ø
+ÌâÀ‚‘üÍòˆ¨äòú	Œœ]öŠşÎ¶ëü	€	ÏVÊtâ€	ş	‚	Ğ¬æ€
+„	ÑÆrŞ~	‚
+†	ÒÈsà	„
+‘ˆ	ÓÄqÜ}	†
+’Š	ÔÂpÚ|	ˆ
+“Œ	ÕŒ–	Öš	×ˆ”’	Ø”	ÙŠ
+”–	ÚŒ
+•˜	Û¾ï
+–š	ÜÌuä	
+—œ	İÂñ’
+˜	Ş”
+™ 	ß—¢	à–
+š¤	áÒxæ‚	˜
+›¦	âê„	ì…	ÎvĞwš
+œ¨	ãœª	äĞøœ
+¬	åî†˜®	æÔyèƒ	
+°	çÔú 
+Ÿ²	è´	é¶	ê’™¸	ë”š¼	í†“¶
+ª’X”Y¸
+«¤¢¨
+£ª
+¤°
+§²
+¨¬
+¥®
+¦¦£´
+©òÈøËúÌˆŞ¾Â	ğ¦
+¢À	ïŠ•Æ	òö
+Ëà
+ÀÒ
+¸Ô
+¹ä‚Ä	ñÈ	óÊ	ôÎ
+¶¤
+¡ØüĞ
+·ìÅŞÿ¼
+­ú
+Í¾
+®â Ò8Ø;îF _–ZîÆÄ
+±Â
+°¼­À
+¯Î	öÒ	ø×ô
+ÊØ
+¼Ô	ùÖ	úà¿ÌµÎ¶Ğ·Ò¸Ô¹ÖºØ»Ú¼Ü½ì
+Æî
+Ç¤¡WôÉ¨¤öÊª¥º	ì–›º
+¬˜œÖ
+º¬¦®§Ä1„Òa a a ÓBş  $  Ëà—ì
+ä8è  Â À,òî)ÇâBş  $  ªì¸ã^ ğß¸ªì)Ç^ Bş  $  ªìS^ ^ Al  —Cl  ^ ğf ^	 ^ Al  ì·î¸ò^ Al  ì^
+ ^ A“  ñî^
+ ^ A•  ñÇ^ Bş  $  ªìN^ ^ Am  —Cm  ^ ğf ^ ^ Am  ì·î¸ò^
+ ^ Am  ì^ Aª  î	^ A¨  ñÇ^ Bş  $  ªì}^ ^ An  —Cn  ^ B8  f f $ ^ An  ì+^ B8  f f $ f ^ ·ò^
+ ^ Aª  ñî&^ B7  f $ f ^ ¸ò^
+ ^ A¨  ñÇ^ Bş  $  ªìO^ ^ Ao  —Co  ^ ğ^ Ao  ìf ^ ·ò^
+ ^ Ao  ñîf ^ ¸ò^
+ ^ A  ñÇ^ Bş  $  ªìk^ ^ Ap  —Cp  ^ Ap  ì+^ B8  f f $ f ^ ·ò^
+ ^ Aª  ñî&^ B7  f $ f ^ ¸ò^
+ ^ A¨  ñÇ^ Bş  $  ªìk^ ^ Aq  —Cq  ^ Aq  ì+^ B8  f f $ f ^ ·ò^
+ ^ Aª  ñî&^ B7  f $ f ^ ¸ò^
+ ^ A¨  ñÇ^ Bş  $  ªìk^ ^ Ar  —Cr  ^ Ar  ì+^ B8  f  f! $ f ^" ·ò^
+ ^ Aª  ñî&^ B7  f  $ f ^" ¸ò^
+ ^ A¨  ñÇ^# Bş  $  ªìk^ ^ As  —Cs  ^ As  ì+^ B8  f$ f% $ f ^& ·ò^
+ ^ Aª  ñî&^ B7  f$ $ f ^& ¸ò^
+ ^ A¨  ñÇ^' Bş  $  ªì^( ğÇ^) Bş  $  ªì^* ^ Aš  ^ A  ¸óÇ^+ Bş  $  ªì^, ğÇ^- Bş  $  ªìáğ8è  ÂÀÈ òÇ^. Bş  $  ªìJ^ ^ At  —Ct  ^ At  ìf ^/ ·ò^
+ ^ Aª  ñîf ^/ ¸ò^
+ ^ A¨  ñÇ^0 Bş  $  ªìJ^ ^ Au  —Cu  ^ Au  ìf ^1 ·ò^
+ ^ Aª  ñîf ^1 ¸ò^
+ ^ A¨  ñÇ^2 Bş  $  ªj‹   8ì   Bí     $ mU   ^ ^ Av  —Cv  ^3 ğ^ Av  ìf ^4 ·ò^
+ ^ Av  ñîf ^4 ¸ò^
+ ^ A¨  ñîÌm   8ì   Bí   ÈA6   $ î/Ç^5 Bş  $  ªì}^ ^ Aw  —Cw  ^ B8  f6 f7 $ ^ Aw  ì+^ B8  f6 f7 $ f ^8 ·ò^
+ ^ Aª  ñî&^ B7  f6 $ f ^8 ¸ò^
+ ^ A¨  ñÇ^9 Bş  $  ªìO^ ^ Ax  —Cx  ^: ğ^ Ax  ìf ^; ·ò^
+ ^ Aª  ñîf ^; ¸ò^
+ ^ A¨  ñÇ^< Bş  $  ªìJ^ ^ Ay  —Cy  ^ Ay  ìf ^= ·ò^
+ ^ Ay  ñîf ^= ¸ò^
+ ^ A¨  ñÇ^> Bş  $  ªì^? ğÇ^@ Bş  $  ªìJ^ ^ Az  —Cz  ^ Az  ìf ^A ·ò^
+ ^ Aª  ñîf ^A ¸ò^
+ ^ A¨  ñÇ^B Bş  $  ªì}^ ^ A{  —C{  ^ B8  fC fD $ ^ A{  ì+^ B8  fC fD $ f ^E ·ò^
+ ^ Aª  ñî&^ B7  fC $ f ^E ¸ò^
+ ^ A¨  ñÇ^F Bş  $  ªj¹   ^ ^ A|  —C|  ^ A|  ìg^ B5  Ÿ  $ gG ^ B5     $ gH ^ B8  fI fG $ ^ B8  fJ fH $ f ^K ·ò^
+ ^ Aª  ñî5^ B7  fI $ ^ B7  fJ $ f ^K ¸ò^
+ ^ A¨  ñÇ^L Bş  $  ªì^M ^ Aâ  ¡  ^ AT  ¹" Ç^N Bş  $  ªìO^ ^ A}  —C}  ^O ğ^ A}  ìf ^P ·ò^
+ ^ Aª  ñîf ^P ¸ò^
+ ^ A¨  ñÇ^Q Bş  $  ªì^R ì^S ğî^
+ ^ A¼  ñÇ^T Bş  $  ªì}^ ^ A~  —C~  ^ B8  fU fV $ ^ A~  ì+^ B8  fU fV $ f ^W ·ò^
+ ^ Aª  ñî&^ B7  fU $ f ^W ¸ò^
+ ^ A¨  ñÇ^X Bş  $  ªìO^ ^ A  —C  ^Y ğ^ A  ìf ^Z ·ò^
+ ^ Aª  ñîf ^Z ¸ò^
+ ^ A¨  ñÇ^[ Bş  $  ªì^ ^ A€  —C€  áğÇ^\ Bş  $  ªì2^R ì ^M ^ AÎ  ¡  ^ AĞ  º" î^
+ ^ AÒ  ñÇ^] Bş  $  ªì^^ ğÇ^_ Bş  $  ªì^` ğÇ^a Bş  $  ªj¸   ^b 
+ñfc ^d ^e (  ñ^f •  ñófc ^g ^e (  ñ^f ^ Aş  Aé  ñó^h ^i ñ^h ^j ñ^h ^k ñ^h ^l ñ^h ^m ñ^h ^n ñ^o ^p ñ^o ^d ñ^o ^g ñ^o ^q ñ^o ^r ñ^o ^s ñft ^u ^f ,  ñ¸óÇ^v Bş  $  ªìJ^ ^ A  —C  ^ A  ìf ^w ·ò^
+ ^ Aª  ñîf ^w ¸ò^
+ ^ A¨  ñÇ^x Bş  $  ªì^y ğÇ^z Bş  $  ªìM8ì   Bí   ¢  $ ^{ ^| ñì$
+_} 8›   ^| ñ_~ 
+_ ^
+ ^ AÛ  ñî^
+ ^ Aİ  ñÇ^€ Bş  $  ªì	_ Ç^ Bş  $  ªì^* ^ AÆ  ^ AÈ  »óÇ^‚ Bş  $  ªj”   ^ƒ ì7	_ƒ ^
+ ^ AÂ  ñf ^„ ·òft ^‚ ^f ^ A¾  ñ¸ó^… ğîV^† ëÀ ¤ì?^† ë·¦ì7
+_ƒ ^
+ ^ AÄ  ñf ^„ ¸òft ^‚ ^f ^ AÀ  ñ¸ó^… ğî^
+ ^ AÌ  ñÇ^‡ Bş  $  ªì^ Cƒ  ^
+ ^ A6  ñ^ˆ ğáğ^‰ B£  Â$ Íb ìTa ^‰ B   Â$ Î^ b Az  Cƒ  8ì   Bí   ¤  b Az  $ ^ˆ ğ^Š ğ^
+ ^ A—  ñ^‹ B£  Â$ Åb ìl^R ìZa ^‹ B   Â$ ÅfŒ ÀÈ ñËf Çb Az  òf f BÆ  $  Çò^
+ ^ A¶  ^ ^‘ b A†  ñññî^
+ ^ A¸  ñÇ^’ Bş  $  ªì^” ¥  _“ ^
+ ^ Aá  ñ
+_• ^– B£  Â$ Åb ì3a ^– B   Â$ Å^” b A  _“ ^
+ ^ Aá  ñ
+_• Ç^— Bş  $  ªì^M ^ A  ¦  ^ A  ¼" Ç^˜ Bş  $  ªì^™ §  fš ^› ñ¨  òÇ^œ Bş  $  ªì^™ ©  fš ^› ñª  òÇ^ Bş  $  ªì^™ «  fš ^› ñ¬  ò^ «ì-Ç^ Bş  $  ªì^M ^ A  ­  ^ A  ½" ^Ÿ ^  ^¡ ^¢ ^£ ^¤ ^¥ ^¦ ^§ &	 ÅÄ~îlÅ	ÄÄ	G«ìaÄÄ	GBş  $  ÇªìPa
+ 8¢   Bş   $  Å
+b
+ ^¨ ŸÀ˜:¥ì
+^© _© î¸_© b
+ _¨ ^
+ ^ª ñ^© ¹§ì^« ®  ñ·_© ì“Ç^¬ Bş  $  ªì^­ ğÇ^® Bş  $  ªì^¯ ğÇ^° Bş  $  ªì^± ğÇ^² Bş  $  ªì^³ ğ^u «jİ   Ç^u Bş  $  ªjË   ^´ —j¸   
+_´ fc ^d ^e (  ñ^f •  ñófc ^g ^e (  ñ^f ^ Aş  Aé  ñó^h ^i ñ^h ^j ñ^h ^k ñ^h ^l ñ^h ^m ñ^h ^n ñ^o ^p ñ^o ^d ñ^o ^g ñ^o ^q ñ^o ^r ñ^o ^s ñft ^u ^f ,  ñ¸óî^« ®  ñÇ^k Bş  $  ªì^« ®  ñÇ^l Bş  $  ªì^« ¯  ñÇ^r Bş  $  ªì^µ ğÇ^s Bş  $  ªì^¶ ğf· Óñ^¸ ğ)æª06&	D#NXq5DFNXq©NX]5]0DN0FNX50D0FNX5]0DN0FNX5]0DN0FNX5]0DN0FNX5]0DN0FNNrNN 
+NX50D0FNX50D0F]bX50D0DšNX]5]0DN0FNX50D0FNX50D0FNNX50D0FNX]5]0DN0F]X5lm]^0DNO0FN 
+NX50D0FNFNX]5]0DN0FNX50D0FNXN”FNN]!…®+++++++++++, 
+NX50D0 N Ob0?DFN Nr]D0l]D0l N0DI+ISŠ 
+N+N+IX™ N?DN+NND 
+N•NwNwN 
+&N ??!&0gOD&",&5  
+NN 
+NN 5]0…®+++++++++++,] 
+N6N6NN"B      Â  À ·ã	ä)æ’B      ø
+ ßğ)æ‹B   à  ® ÓA{  Bş  $  ß¬(æ¯ B   à  ® ÓA{  Bş  $  ß¬(æ± B   â  ® ÓA{  Bş  $  ß¬(æ» B   â  ® ÓA{  Bş  $  ß¬(æ¾ B   ä  ® ÓA{  Bş  $  ß¬(æĞ B   ä  ® ÓA{  Bş  $  ß¬(æÒ CÆ$ İˆ  ´  †  ¨   æ00æ  œ]öŠ„†’XVúŒ€‚„‘†’ˆ“Š”Œ•–—’˜”™–š˜›šœœ Ÿ¢ şü¾nÀoº¬Äòà€Ğ
+·×Ş
+¿Ú
+½Ó¸ªj¸  a  Ôë¸¤ì
+ßàA‘  ñ)ÃËf ğÌf È^ Õ  ñò¸®ì^ B;  Ôf $ c  ïf È^ ´  ñò¸®ì^ B;  Ôf $ c  ïõf È^ µ  ñò¸®ì^ B;  Ôf $ c  ïÌf È^ ¶  ñò¸®ì^ B;  Ôf	 $ c  ï£f È^ ·  ñò¸®ì^ B;  Ôf
+ $ c  ïzf È^ ¸  ñò¸®ì^ B;  Ôf $ c  ïQf È^ ¹  ñò¸®ì^ B;  Ôf $ c  ï(f È^ º  ñò¸®ì^ B;  Ôf $ c  ïÿf È^ »  ñò¸®ì^ B;  Ôf $ c  ïÖf È^ ¼  ñò¸®ì^ B;  Ôf $ c  ï­f È^ ½  ñò¸®ì^ B;  Ôf $ c  ï„f È^ ¾  ñò¸®ì^ B;  Ôf $ c  ï[f È^ ¿  ñò¸®ì^ B;  Ôf $ c  ï2f È^ À  ñò¸®ì^ B;  Ôf $ c  ï	f È^ Á  ñò¸®ì^ B;  Ôf $ c  ïà f È^ Â  ñò¸®ì^ B;  Ôf $ c  ï· f È^ Ã  ñò¸®ì^ B;  Ôf $ c  ï f È^ Ä  ñò¸®ì^ B;  Ôf $ c  îef È^ Å  ñò¸®ì^ B;  Ôf $ c  î=f È^ Æ  ñò¸®ì^ B;  Ôf $ c  î^ B;  Ôf $ c  b  ìHa b  Í^ B<  f f b b  $ ^ B<  f f b b  $ ßàA  Ôñ
+_ )ßàA‘  ñ)Ó¹ªì^ Ôñ)Óºªì^ Ôñ)Ó»ªì'ÔëÀ ¤ìÔë·¦ìÔ_  ßàAÊ  ñ)ßàAÌ  ñ)Ó¼ªì	^! ÔÔò)Ó½ªìLÔë½ªìF^ BN  ^" Ç  ^ BP  Ô^# $ È  ^ BP  ^ BA  $  ^# $ $ Î)æÓb:!,]g]g]g]g]g]g]g]g]g]g]g]g]g]g]g]g]g]g]g]gi+{|:1!!I0	1&! EB    È  Ó»s8{  ¸ñI)æÆ :C       ¸(æË C  >‚  Î   ¾¯‚’X¤¡¦¢8&  Be  Ó$ ÏÉ  ªìßğf áâñ# ÇÊ  ªìf á^ ñ# f Ó# æÏ I010<B  ;È    ””YÈ´f Ó·Gá&  ñÓ¹GóâBğ  $  8è  Â Àôò8ì   Bí   Ë  $ )æİ ]5 &]B        m	   ßğ)m   8è  Â Àèò)/æà !&B         ßğ)æå B  ¡È  œ]öŠVÄ
+±ÖzØ{ŠÕÚ	üº­æÂ¨£òˆª¤¬¥®¦°§²¨´©¶ª¸«¼­º¬â
+Áê
+ÅâÀä
+Âæ
+Ãè
+Ä„Ò^ ·«jš  ^ ¸Ÿ` ·ªjé   ^ ğ
+_	 ^
+ ^ Ar  «k’   ^ ^ As  «k   ^ ^ Ap  «íl^ ^ Aq  «í\^ ^ An  «íL^ ^ Aw  «í<^ ^ A{  «í,^ ^ A|  «í^ ^ A~  «í^ í^ jİ   ^ ì8è  Â Àôò8è  ÂÀˆò)8è  ÂÀôò8è  ÂÀ¸ò)^ BY  Â$ ^ j   	_ ^ Bj   ¿	$ Bj   ·$ BÓ  ^ $ ^ Bj   ¿	$ Bj   ¸$ BÓ  ^ $ ^ Bj   ¿	$ Bj   ¹$ BÓ  ^ $ ^ ^ ^ ^ & C…  ^ ğßàA  ñ)æï ,5+&bbSSSSSSS5&&	& 
+	 "+­­­g 	B      œ  ö  Ä
+ ÖØßàA®  ñáBO  âf f $ )æƒ!0SB      Š ßğ)æ‡!B     	 œ  ö ßàA®  ñ)æŒ!+B      Š ßğ)æ!C   )ş  è m   ÓBğ  $  )Ëm   8ì   Bí   Ç$ )/æ˜!5+NC   ‚  Ä²m
+   ßÓñ)m   )/æ®!+C  ]‚  „    ²   ´  Â0 _Ü	ıÆ³Ø	û®&8)  f  ,  ,  & ! ÓBj   Àˆ$ BÆ  $  ñËàÇñÌÕ¸ªìÈBú  Ì  $ —ìáìâ^ Èò)f ÓÔÕó)æ¶!
+b€q'-C  ]‚  „    ²   ´  Â0 _Ü	ıÆ³Ø	û°'8)  f  ,  ,  & ! ÓBj   Àˆ$ BÆ  $  ñËàÇñÌÕ¸ªìÈBú  Ì  $ —ìáìâ^ Èò)f ÓÔÕó)æÅ!
+b€q'-C    „   ‚»Êµ¾¯8ğ   Bõ   G  $ ÏAH  Â CI  )æÖ!^ 
+&C      ‚  Ê ¾ Ë
+ã
+äá	ñÇBH  $  )æÙ!0C    „   à	ÿÚ	üº­Êµ8ğ   Bõ   G  $ ÏAÍ  Â CI  )æá!^ &C     à	  Ú	 º Ê Ëâì	æ8è  Â ÀòÇBÍ  $  )æä! '0B      à	  Ú	 º ß—ì	à·ªìáğ)æè!0C   p†   ˆ @è Š  Œ @è ‚»m-   8ğ   Bõ   J  $ ÏAK  ÌÇAK  Â CI  îÍm   î/m-   8ğ   Bõ   L  $ ÒAK  ÅÊAK  ÂCI  )Åm   )/æò!]& &0]+ &0C        ‚  ˆË Ìßì	ã)àB\   ÇÈ% æö!C        ‚  ŒË Ìßì	ã)àB\   ÇÈ% æ„"C   È  ¾¯Ú	üà	ÿßğ·ä
+å)æ’"C  È  †“Ø
+¼ş€ø‹Øº­òˆÚ	üà	ÿ¾®·_ 	_	 	_
+ 8è  Â ÀÈ ò)æš" !B    1 †  Ø
+ ş€ø  º ò f f ğñä^ ğ^ ğ^ ğ^ A‚  	ªì8è  Â ÀĞò)æ"0?(B      †  ßğ)æ¤"B   î  î†
+ã)æ®"B   î  î†	ã)æ´"
